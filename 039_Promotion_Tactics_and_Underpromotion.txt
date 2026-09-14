@@ -1,0 +1,221 @@
+Promotion Tactics and Underpromotion
+
+A pawn is one step from becoming a queen. You may feel that the only remaining question is whether you can push it. In tactical positions, several other questions matter just as much. Will the promotion give check? Can the new piece be captured? Does the opponent have a checking move first? Could choosing a knight or rook produce a better result?
+
+Promotion is a transformation that happens immediately, and that sudden change creates many tactical possibilities.
+
+In this lesson, we will study promotion as a forcing idea. We will look at opening the route, removing defenders, choosing the right piece, and checking the position after promotion. Our examples will use relationships rather than board coordinates.
+
+The basic rule is simple. When your pawn reaches the farthest row, you replace it as part of that move with a queen, rook, bishop, or knight of your color.
+
+The new piece acts immediately. If it attacks the enemy king, the promotion gives check. If it attacks a rook, that threat already exists when the opponent begins the next turn.
+
+You may have more than one queen or more than the original number of another piece. Promotion is not restricted by what has previously been captured.
+
+You cannot choose a king, and you cannot leave the pawn unchanged.
+
+The queen is usually the strongest choice, but the promotion decision should follow the position. Choosing a rook, bishop, or knight instead is called underpromotion.
+
+Let's begin with the promotion square itself.
+
+A pawn cannot advance straight into an occupied square. If an enemy rook stands directly in front of the pawn on its final destination, the pawn does not capture it by moving forward.
+
+The pawn may instead be able to capture diagonally onto the farthest row and promote there. That capture changes the file and creates the new piece on the capture square.
+
+This is why a promotion threat may have more than one destination. The defender must consider both a straight advance and any legal capturing promotion.
+
+Before choosing a defensive block, inspect whether the pawn can change course.
+
+A piece directly in front of the pawn is a blockader. Removing that piece can be the key tactical task. You might capture it, force it away with a threat, or exchange it for another piece that cannot maintain the blockade.
+
+However, the promotion square may still be controlled by another defender. Eliminating the blocker does not automatically make the advance safe.
+
+Imagine an enemy rook blocks your pawn, and a bishop also controls the promotion square from a distance. A combination that removes only the rook may leave the bishop able to capture the new queen.
+
+Trace every relevant defensive line before celebrating the cleared route.
+
+Now consider a defender that guards the promotion square from elsewhere.
+
+That piece may have another responsibility, such as protecting its queen or preventing checkmate. If it cannot perform both jobs, it is overloaded.
+
+You may be able to create a threat that forces the defender to abandon the promotion square. Alternatively, you might promote and exploit the defender's move away from its other job.
+
+The important step is to identify both duties and test whether the opponent has a way to reorganize.
+
+Do not assume a piece is overloaded merely because it defends two things. It may be able to meet one threat with a move that continues protecting the other.
+
+A real overload creates an unavoidable conflict.
+
+A promotion threat can also deflect a king.
+
+Suppose the enemy king must move toward your passed pawn to prevent promotion. That journey may leave another pawn unprotected or allow your own king to enter elsewhere.
+
+Your pawn can then serve as a distraction even if it never becomes a queen.
+
+In a tactical sequence, the timing may be immediate. A pawn advance may force the king away from a piece it was defending. Your next move captures that piece.
+
+Verify that the king really must respond. The opponent may have a rook move, a checking sequence, or a sacrifice that stops the pawn more effectively.
+
+A threat matters because of the responses it forces, not because of how close the pawn looks to promotion.
+
+Next, let's discuss promotion with check.
+
+A checking promotion can change the outcome of a pawn race. The opponent must answer the king attack before making an unrelated move, including promoting their own pawn.
+
+This may give your new queen time to capture the enemy pawn, control its destination, or deliver another forcing move.
+
+But the follow-up must exist. A check that sends the king to a safe square while leaving the opposing promotion unstoppable may not win.
+
+Calculate the legal responses to the check, then decide how your new piece uses the gained time.
+
+There are also situations in which the opponent can promote while answering the check. A capturing promotion might take the checking piece, or a promotion could block a long-range checking line.
+
+These are specific exceptions, but they illustrate the general rule. The opponent is forbidden to ignore check, not forbidden to make any pawn move.
+
+The resulting position must leave their king safe.
+
+Here is our first practice question.
+
+Your pawn promotes to a queen with check. The opponent also has a pawn one move from promotion, but advancing it would neither capture the checking queen nor block or otherwise remove the check. Can the opponent promote anyway and deal with the check later?
+
+Consider the legal priority.
+
+No. The opponent must answer the check now. Your promotion may gain the time needed to stop their pawn, but you still have to calculate the best legal response and your own follow-up.
+
+Now let's examine why promoting first does not always win.
+
+If your promotion does not give check or prevent the opponent's promotion, both sides may obtain queens. The game then depends on queen placement, king safety, and immediate tactics.
+
+Your new queen might be able to skewer the enemy king and queen along a line. Their queen might instead give repeated checks against your exposed king. One queen might be undefended and vulnerable to a fork.
+
+The race continues beyond the moment the first pawn reaches the edge.
+
+Count the turns in order. Your pawn advances, the opponent's pawn advances, and so on. After the first promotion, pause the count and inspect the board as a new position.
+
+Do not simply award the win to whichever pawn was one step closer.
+
+A promotion can also be a sacrifice.
+
+You may promote on a square where the new queen can be captured because that capture draws a defender away from another decisive threat. Perhaps a second pawn can then promote safely. Perhaps a mating line opens.
+
+The promoted piece may exist for only one move, yet its capture can change the position in your favor.
+
+As with other sacrifices, examine whether the opponent can decline it. If they can leave the queen alone and stop both threats, the combination may fail.
+
+A second passed pawn often makes these ideas stronger because the defender must deal with more than one destination.
+
+Connected passed pawns can create particularly sharp choices.
+
+They may support each other as they advance, and capturing one pawn can open the other's route. But their move order matters. Pushing the wrong pawn may leave both vulnerable or give the enemy king a square from which it can stop them.
+
+Before advancing, identify which pawn controls the other pawn's next square and which capture the defender would prefer.
+
+A pair of pawns is not automatically unstoppable because both are close to promotion. Enemy pieces may blockade them, capture them with check, or force a favorable exchange.
+
+Now let's turn to underpromotion.
+
+The most familiar tactical reason to choose a knight is that a knight attacks squares differently from a queen. A newly promoted knight may give a fork that a queen cannot create from the same square.
+
+For example, the knight's jumping pattern might attack both the enemy king and queen. If the fork is sound, the king must answer the check and the knight may then capture the queen.
+
+But do not stop at recognizing the fork shape. The knight could be captured as a legal answer to check, or the opponent's reply might create an urgent counterthreat that you must answer before taking the queen.
+
+You need to calculate whether the fork actually wins material and whether a queen promotion would produce an even stronger result.
+
+Underpromotion is a choice to evaluate, not a puzzle habit to perform automatically.
+
+A knight promotion may also give the only useful check.
+
+The queen might promote without attacking the enemy king, allowing an urgent enemy threat. A knight's jump could check immediately and gain a necessary tempo.
+
+This is a concrete reason to prefer a piece with a lower ordinary value.
+
+The point count is secondary to the forcing consequences of the promotion move.
+
+Rook promotion often appears in stalemate situations.
+
+A queen controls both straight lines and diagonals. A rook controls straight lines but not diagonals. In a particular position, the queen's extra control might remove the defender's final legal move without giving check, causing stalemate.
+
+A rook could leave an escape square and preserve a win.
+
+You must verify the exact result. Promoting to a rook does not automatically avoid stalemate, and avoiding stalemate does not automatically make the position winning.
+
+Check the defender's legal moves and the resulting material.
+
+Bishop promotion is rarer but can also serve a specific purpose, including controlling a diagonal while avoiding unwanted additional control from a queen. The same standard applies: identify why this piece achieves a better result than the alternatives.
+
+Do not assume that an unusual promotion is correct simply because it looks clever.
+
+Our second practice question concerns a knight promotion.
+
+A pawn can promote to a knight that checks the enemy king and attacks the enemy queen. You have spotted the fork, but you have not checked whether another enemy piece can capture the knight. Is the fork pattern enough to declare that the queen is won?
+
+Think about the legal replies to check.
+
+No. Capturing the checking knight may answer the check and remove the fork. You must examine all meaningful responses, then compare the result with other promotion choices. Recognition finds the candidate move; calculation establishes whether it works.
+
+Promotion tactics also involve pins.
+
+A pawn may be pinned to its own king, making an otherwise natural advance illegal. A capturing promotion could expose a rook or bishop line toward the king.
+
+Conversely, the piece guarding the promotion square may be pinned to its king and unable to make an ordinary recapture legally.
+
+Always distinguish the pawn's movement rule from the legality of the final position.
+
+A promotion that leaves your own king in check is illegal, even if the new piece would attack the enemy king.
+
+The same principle applies when you are already checked. Your promoting move must end that check. The promise of a new queen does not override the immediate king-safety requirement.
+
+Another useful tactic is a discovered attack created by a pawn's departure.
+
+The pawn may stand on a line between one of your long-range pieces and an enemy target. Advancing or capturing toward promotion can uncover that line while simultaneously creating the new piece.
+
+The defender then faces two effects: the promoted piece's attacks and the attack revealed behind the pawn.
+
+This can be powerful, but it also increases the number of relationships you must track. Note the square the pawn leaves, the square it reaches, and any enemy piece removed by a capturing promotion.
+
+The changed squares tell you which lines to inspect.
+
+From the defending side, checks can buy time against a promotion threat.
+
+A rook or queen check may force the enemy king away from the pawn or give you a move to establish a blockade. A check that captures a supporting piece may solve two problems at once.
+
+But harmless checks can make the threat stronger if they drive the king into a better supporting position.
+
+Ask what each check accomplishes. If it merely delays promotion while improving the attacker, seek another defensive resource.
+
+Sometimes the best defense is to give up a piece for the pawn.
+
+A rook may need to capture a pawn just before it promotes. Losing material can still be the best result if the alternative is an overwhelming queen.
+
+Compare the resulting ending carefully. A sacrifice that leaves a known draw may be excellent defense. A sacrifice that loses a rook unnecessarily when a safe blockade existed is not.
+
+The urgency of promotion should sharpen calculation, not replace it.
+
+Our final practice question is about stalemate.
+
+In the stated position, promoting to a queen leaves the enemy king not in check and removes every legal move the opponent has. Promoting to a rook leaves legal moves and allows you to force a win. Which promotion should you choose, and why?
+
+Consider the result before comparing piece values.
+
+Choose the rook. The queen promotion ends the game as a draw by stalemate. The rook's smaller range is an advantage in that particular position because it preserves the winning procedure.
+
+A useful promotion checklist begins before the pawn moves.
+
+Can the pawn legally reach the farthest row, either straight ahead or by capture? Which enemy pieces control the destination? What happens if the new piece is captured?
+
+Then compare promotion choices. Does one give check? Does a knight create a fork? Does a queen cause stalemate? Would another piece solve a specific tactical problem?
+
+Finally, examine the opponent's strongest reply and the position after any second promotion. Include checks, captures, blocks, and counterthreats.
+
+This is a short calculation in some positions and a difficult one in others. The important habit is to continue beyond the word promotion.
+
+For optional practice after listening, review a position in which a pawn promoted or nearly promoted. Explain why the chosen piece was appropriate.
+
+Then change one feature in your imagination: remove a checking line, move a king to safety, or give the defender an extra legal move. Ask how that change affects the promotion choice.
+
+You do not need to invent a full forced variation. Focus on the feature that made the tactic possible and verify exact positions when you later practice on a board.
+
+Promotion combines pawn play with the sudden power of a new piece. Strong players notice the threat before the pawn reaches the edge, prepare the destination, and calculate the consequences of the transformation.
+
+Keep the route, the move order, and the choice of piece connected. A pawn's final step can create a queen, a fork, a mating attack, or an unexpected draw. Your task is to choose the transformation that produces the best position after the opponent's strongest reply.

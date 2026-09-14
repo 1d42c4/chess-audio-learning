@@ -1,0 +1,205 @@
+Pawn Movement Promotion and En Passant
+
+Pawns have the simplest appearance in chess and some of its most unusual rules. They move one way and capture another. They may have a special two-square advance from their starting position. They can promote into a stronger piece. They can also make a special capture called en passant.
+
+Understanding these rules will prevent illegal moves and help you see opportunities that are easy to miss.
+
+In this lesson, we will build the rules carefully, then connect them to practical choices. You can listen without a board. When an example mentions an adjacent pawn or a diagonal capture, focus on that small relationship.
+
+Let's begin with direction.
+
+Your pawns move forward toward the opponent's starting side. The opponent's pawns move forward toward yours. Neither side's pawns can move backward.
+
+This difference from other pieces is fundamental. A knight can return to a previous square. A rook can retreat along a file. A pawn that advances permanently leaves its old square.
+
+That makes pawn moves commitments. They may gain space or open lines, but they also change the squares your pawns protect.
+
+An ordinary pawn move is one square straight forward into an empty square. If any piece occupies that square, the pawn cannot advance there.
+
+A pawn does not capture a piece directly in front of it. Two opposing pawns facing each other may block one another, even though neither attacks the other.
+
+To capture, a pawn moves one square diagonally forward onto a square occupied by an enemy piece. The captured piece is removed, and the pawn takes its place.
+
+For an ordinary capture, the destination must contain an enemy piece. A pawn cannot simply move diagonally to an empty square because it would prefer that route. En passant is the special exception, which we will explain shortly.
+
+This creates two separate questions when you inspect a pawn: where can it move, and which squares does it attack?
+
+A pawn that cannot advance may still protect a knight on its forward diagonal. A pawn that has a clear forward move may attack no enemy piece at all.
+
+Do not confuse mobility with defensive work.
+
+Now let's examine the initial two-square move.
+
+A pawn on its original starting square may advance two squares instead of one, provided both the square it passes through and the destination are empty.
+
+It cannot jump over a piece. If the first square is occupied, the two-square advance is illegal even if the destination is clear.
+
+Once the pawn has left its starting square, it loses this option. You cannot advance one square now and save a two-square move for later.
+
+The option also does not mean you should always use it. A one-square advance may support a piece, keep the structure flexible, or avoid creating a weakness.
+
+The right distance depends on the position.
+
+Here is a simple example. Your pawn can advance one square to protect a central knight. Advancing two squares would move beyond the square needed for that protection and leave the knight vulnerable. The shorter advance may be more useful.
+
+In another position, a two-square central advance may claim space and open a bishop's diagonal efficiently.
+
+The rules create options. Strategy chooses between them.
+
+Let's try our first practice question.
+
+A pawn is still on its starting square. The square immediately in front of it is occupied by an enemy knight, but the square two steps ahead is empty. Can the pawn use its initial two-square move to jump over the knight?
+
+Think about the path requirement.
+
+No. Both squares must be empty. Pawns do not jump over pieces, and they cannot capture the knight straight ahead. The pawn is blocked unless another legal capture or future change gives it a route.
+
+Now we can explain en passant.
+
+The expression means in passing. It describes a special response to an enemy pawn's initial two-square advance.
+
+Imagine your pawn has advanced far enough that an enemy pawn, moving two squares from its starting place, can finish immediately beside yours on a neighboring file. The enemy pawn makes that move.
+
+On your very next turn, your pawn may capture that enemy pawn as though it had advanced only one square.
+
+Your pawn moves diagonally forward onto the square the enemy pawn passed through. That destination is empty before your capture. The enemy pawn is removed from the neighboring square where it finished.
+
+The move can feel unusual because the captured pawn is not on your pawn's destination. But the whole action is one legal pawn capture when the conditions are satisfied.
+
+Let's slow down the picture.
+
+Before the enemy move, your advanced pawn controls a diagonal square that the enemy pawn would pass through. The enemy pawn uses its two-square advance and lands beside your pawn. Your immediate reply may place your pawn on that controlled passing square and remove the pawn that just advanced.
+
+That is the relationship to remember.
+
+There are several restrictions.
+
+The enemy pawn must have just moved two squares from its original starting square. A pawn that moved only one square does not create an en passant opportunity. A pawn that has been sitting beside yours for several turns does not create one either.
+
+Your pawn must be in the correct neighboring position so that its ordinary diagonal-forward direction reaches the passing square.
+
+You must make the capture immediately on the next move. If you choose a different move, the opportunity against that particular advance is lost.
+
+And, like every move, the capture must leave your own king safe.
+
+That final condition is especially important because en passant changes three squares at once: your pawn leaves its original square, the enemy pawn disappears from its neighboring square, and your pawn arrives on the passing square.
+
+Removing both pawns from their original row can open a rook's line. Moving your pawn off a diagonal can reveal a bishop's attack.
+
+If the resulting position exposes your king to check, en passant is illegal even though the pawn geometry otherwise fits.
+
+The special capture does not grant an exception to king safety.
+
+En passant is optional in ordinary circumstances. You do not have to make it simply because it is available. As with any legal move, you should compare the result with your alternatives.
+
+There can be a position where it is the only legal move, in which case you must make that move to continue play. But there is no general rule requiring an available pawn capture.
+
+Now let's discuss why en passant matters strategically.
+
+Your opponent may use a two-square pawn advance to pass an advanced pawn that would otherwise be able to capture it after a one-square move. En passant gives the advanced pawn an immediate chance to challenge that passage.
+
+The capture can open a file, change a pawn chain, create an isolated pawn, or remove a pawn that controls an important square.
+
+It can also be a mistake. Your pawn may leave a useful blocking square or create an open line for the opponent.
+
+Before taking en passant, perform the same evaluation you would use for another capture. What do you gain? What changes in the structure? What lines open? What is the opponent's strongest reply?
+
+Remembering the rule is the first step. Judging the resulting position is the second.
+
+Here is our second practice question.
+
+An enemy pawn makes a two-square move and finishes beside your advanced pawn, creating a legal en passant opportunity. You choose to move your bishop instead. On the following turn, the pawns are still beside each other. Can you now make that en passant capture?
+
+Focus on the timing.
+
+No. The opportunity existed only on your immediate reply to the two-square advance. Once you chose another move, that particular capture was no longer available.
+
+Now let's move to promotion.
+
+When a pawn reaches the farthest row from its starting side, it must be replaced as part of that move by a queen, rook, bishop, or knight of the same color.
+
+The pawn does not remain a pawn until your next turn. Promotion is immediate, and the new piece's movement and attacks take effect immediately.
+
+You may promote by advancing into an empty square or by making a legal diagonal capture onto the farthest row. If the promotion square is occupied directly ahead, the pawn cannot move straight into it, because pawns do not capture forward.
+
+You cannot promote to a king. You cannot choose an enemy-colored piece. You cannot leave the pawn unchanged.
+
+The choice is not limited to pieces that have already been captured. If your original queen is still on the board, you may create another queen.
+
+In fact, several promotions can give you multiple pieces of the same kind. The ordinary starting set does not impose a permanent limit.
+
+The queen is usually the strongest choice because she combines rook and bishop movement. But usually does not mean always.
+
+Choosing a rook, bishop, or knight instead is called underpromotion.
+
+A knight promotion may give a check or fork that a queen cannot give from the same square. A rook promotion may avoid stalemate because it controls fewer diagonal squares than a queen. A bishop promotion can occasionally serve a specific tactical purpose.
+
+These cases are less common, but they are important enough to check when the position is sharp.
+
+Do not choose an unusual piece merely to be creative. Identify the concrete advantage. If the queen wins safely and no exception applies, she is generally the practical choice.
+
+Promotion also changes the urgency of a pawn.
+
+A pawn far from the enemy edge may be a long-term resource. A pawn that can promote on the next move creates an immediate threat. The opponent may need to blockade it, capture it, or use checks to gain time.
+
+A blockade means placing a piece directly in front of the pawn so it cannot advance. The blockade works only as long as the blocker can remain safely on that square.
+
+Your king and pieces may help remove the blocker or support the final advance.
+
+This is why pushing a passed pawn blindly can fail. A passed pawn has no enemy pawn ahead of it on its own or adjacent files, but enemy pieces can still stop it.
+
+You need to compare the pawn's advance with the opponent's threats. A pawn that promotes after your king is checkmated has no practical value.
+
+In a pawn race, count actual moves and include forcing checks. One side may promote first but still lose the new queen to a skewer or immediate capture. Another promotion may give check and prevent the opponent from promoting at once.
+
+The sequence continues after the pawn reaches the farthest row.
+
+Our final practice question concerns the choice of piece.
+
+Your pawn can promote. In the described position, making a queen would leave the opposing player with no legal move while their king is not in check. Making a rook would preserve legal moves and a winning position. Must you choose the queen because she is strongest?
+
+Apply both the promotion rule and the stalemate rule.
+
+No. You may choose the rook. If the queen causes stalemate, its greater ordinary value does not help. The correct promotion is the one that produces the best result.
+
+Now let's connect these rules to pawn captures more broadly.
+
+When a pawn captures, it changes files. That can create doubled pawns, which are friendly pawns on the same file. It may also open a file for a rook or give a bishop a useful diagonal.
+
+A capture toward the center is often a sensible starting idea because central pawns control important squares. But it is not a rule. Capturing away from the center may preserve king safety or create a valuable open file.
+
+Always inspect the new arrangement.
+
+Pawns also influence each other through chains. A pawn on a forward diagonal can be supported by another pawn behind it. If you advance or capture with the supporting pawn, the front pawn may lose that protection.
+
+Before moving a pawn, identify what it supports now and what it will support afterward.
+
+Because pawns cannot retreat, a careless move may create a permanent hole. A hole is a weak square that enemy pieces may occupy without being easily challenged by your pawns.
+
+Not every abandoned square matters. The question is whether an enemy piece can use it and whether your other pieces can control it.
+
+These positional consequences explain why a technically legal pawn move can still be a poor decision.
+
+There is another useful practical point about blocked pawns. A pawn with no forward move is not necessarily useless. It may hold an enemy pawn in place, protect a strong knight, or keep a file closed near your king.
+
+You do not need to move every pawn to make progress. Sometimes the best plan uses the stability that an unmoved pawn provides.
+
+When you do want to change a blocked structure, look for a pawn break. This is an advance that challenges an enemy pawn and may lead to exchanges. Prepare the break with supporting pieces, and inspect the lines that will open.
+
+For a listening exercise, describe three different pawn situations.
+
+First, imagine a pawn with a clear square ahead and an enemy piece on a forward diagonal. It has a choice between advancing and capturing.
+
+Second, imagine a pawn blocked straight ahead but protecting a knight diagonally. It may have no advance while still performing an important defensive job.
+
+Third, imagine a pawn close to promotion with an enemy rook controlling the final square. Its distance from promotion creates pressure, but support is still needed.
+
+These small pictures help you separate movement rules from strategic value.
+
+After your next game, review one pawn advance, one pawn capture, and any promotion opportunity. Ask what the move changed and whether the opponent had a stronger reply than you expected.
+
+If en passant occurred, inspect all three changed squares. If promotion occurred, check whether the new piece gave check, created a threat, or risked stalemate.
+
+The pawn rules become easier when you remember the basic pattern and then attach the exceptions carefully. Pawns advance straight, capture diagonally forward, and never retreat. The initial double move needs a clear path. En passant is an immediate response to a specific double advance. Promotion happens at once when the pawn reaches the farthest row.
+
+With those rules secure, you can spend less attention wondering what a pawn is allowed to do and more attention deciding what you want it to accomplish.

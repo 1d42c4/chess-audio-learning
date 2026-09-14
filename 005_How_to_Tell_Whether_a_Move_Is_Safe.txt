@@ -1,0 +1,195 @@
+How to Tell Whether a Move Is Safe
+
+You are about to move a piece to a square that looks active. It attacks something, helps your plan, and seems much better than leaving the piece where it is. Before you play it, there is one question worth answering: what can your opponent do after that move?
+
+A safe move is not necessarily a quiet move. A capture, a check, or even a sacrifice can be sound. Safety means that you have examined the important consequences and are not giving your opponent a clear opportunity you failed to notice.
+
+In this lesson, we will build a practical way to check a move. We will separate legal safety from material safety, inspect what a piece leaves behind, and learn how to look for the opponent's strongest reply. The examples are designed for listening, so focus on the relationships that are described.
+
+First, a move must be legal.
+
+Your piece must move according to its movement rule. Its route must be clear if it is a rook, bishop, or queen. Its destination cannot contain a friendly piece. Special moves such as castling have additional conditions.
+
+Most importantly, your own king must not be in check after your move.
+
+Imagine your bishop is the only piece standing between an enemy rook and your king. The bishop has a clear diagonal to an attractive pawn. Moving the bishop would follow its ordinary movement rule, but it would uncover a rook attack against your king. The move is illegal.
+
+This is called an absolute pin: the bishop is restricted because the king stands behind it on the enemy line.
+
+The first safety test is therefore simple. After the move, is your king attacked? If the answer is yes, reject the move regardless of the material you hoped to gain.
+
+If your king is currently in check, the move must remove that check. A threat against the enemy queen does not excuse leaving your king under attack.
+
+Once the move is legal, you can examine whether it is tactically safe.
+
+Tactical safety concerns immediate threats such as captures, forks, mating attacks, and forced sequences. A legal move can still lose a queen.
+
+Imagine that you move your queen to attack an undefended rook. The destination is also attacked by an enemy pawn. If the pawn can simply capture the queen and there is no stronger forcing consequence, your move fails.
+
+The attack on the rook does not protect your queen. An opponent does not have to defend a threatened piece if they can gain something more valuable.
+
+That is the second safety test: can the moved piece be captured, and if so, what is the full result?
+
+Do not stop at whether the destination is attacked. A defended square can still be a good destination if captures favor you. Moving a bishop onto a square attacked by a rook may be safe if the rook would lose more material after capturing.
+
+Likewise, an apparently defended piece can be unsafe if the defender cannot recapture or has a more urgent responsibility.
+
+You need to follow the relevant exchange, not just count the first attack.
+
+Let's build an example.
+
+Your knight can capture a pawn. An enemy bishop could then capture your knight, and your queen could capture the bishop. In this simplified sequence, each side loses a minor piece and you gain the pawn. The fact that the knight can be captured does not by itself refute the move.
+
+But before accepting that conclusion, look for other replies. The opponent might have a check before the bishop recaptures, or the queen's recapture might expose your king.
+
+A sequence is reliable only when you test the strongest responses, including moves outside the exchange you first imagined.
+
+Now we need a third safety test: what does your piece leave behind?
+
+This is where many ordinary blunders happen.
+
+A piece may be protecting something from its current square. When it moves, that protection disappears. The new square might be perfectly safe, while the old responsibility becomes a problem.
+
+Imagine your knight is the only defender of your rook. The knight can jump to a secure square and attack an enemy pawn. Nothing can capture the knight there. However, the opponent can now capture the rook.
+
+The knight's destination is safe, but the move is not.
+
+Before moving a piece, identify its current jobs. It may defend another piece, block an enemy line, control an escape square, or prevent a pawn advance.
+
+Then ask which jobs will still be covered after the move.
+
+This habit applies especially to pawns. A pawn that advances changes the squares it attacks. It might stop protecting a knight or allow an enemy bishop to use a newly opened diagonal.
+
+Because the pawn cannot retreat, the weakness may remain long after the immediate move.
+
+Let's try the first practice question.
+
+Your bishop can capture an enemy pawn on a clear diagonal. Your bishop is also the only blocker between an enemy rook and your king. Moving it would expose that rook's straight-line attack. Is the capture legal if you win the pawn?
+
+Think about which condition has priority.
+
+No. You may not expose your king to check. The capture's material benefit is irrelevant because the resulting position is illegal.
+
+Now let's examine newly opened lines.
+
+Moving a piece changes more than its own attacks. It can reveal an attack from a rook, bishop, or queen behind it.
+
+Suppose your pawn stands on a diagonal between an enemy bishop and your queen. You advance the pawn, believing it gains useful space. The diagonal opens, and the bishop can now take your queen.
+
+The pawn may not have been defending the queen in the ordinary sense of being able to recapture. It was protecting her by blocking the line.
+
+That distinction matters. Defending can mean guarding a square, obstructing a route, or restricting an enemy piece.
+
+After your proposed move, trace the lines that pass through the square you vacated. If a rook, bishop, or queen lies on one of those lines, inspect what it can now reach.
+
+Also inspect lines opened by a capture. Removing an enemy pawn may reveal a rook behind it. Your capturing piece could become the first target on the newly cleared file.
+
+The fourth safety test is king danger.
+
+Even when your move does not leave your king in check immediately, it might allow a serious threat. You may remove a defender, weaken the pawn shelter, or let the enemy queen enter near your king.
+
+Imagine you move a rook away from your back row to attack a pawn. The rook was helping prevent an enemy rook from delivering a back-rank mate. The move is legal, and the attacking rook reaches a safe square, but your king now has no answer to the enemy invasion.
+
+This is why you should look for the opponent's checks after every candidate move.
+
+Checks are forcing because you must answer them legally. A check can also create time for a second threat, such as winning your queen after your king moves.
+
+However, do not assume every check is strong. The checking piece may be captured, or the king may move to a safer square. Your task is to identify checks and evaluate them, not panic at the word.
+
+Next come forks and double attacks.
+
+A piece may be safe on its new square but line up with another valuable piece in a way that allows a fork. Knights are especially good at creating attacks that are difficult to notice through ordinary straight-line scanning.
+
+Imagine your king and rook will both sit within reach of a single enemy knight jump. If that jump gives check, you may have to move the king and lose the rook.
+
+Before placing two valuable pieces near an enemy knight, inspect the knight's possible landing squares. Ask whether one landing square attacks both.
+
+Queens, rooks, bishops, and pawns can create double attacks too. The general warning sign is that one enemy move may threaten more than you can save.
+
+Now let's discuss a common mental shortcut: assuming that protection makes a piece safe.
+
+Suppose your queen is defended by a bishop. Your opponent can capture the queen with a rook. You might think the queen is protected because your bishop could recapture the rook.
+
+But losing a queen for a rook is usually unfavorable. The defender gives you something back; it does not automatically make the original capture bad for the opponent.
+
+Protection must be evaluated in terms of values and consequences.
+
+A defender may also be pinned, overloaded, or too far from another urgent duty. If moving it exposes your king or allows checkmate, it may not be able to perform the recapture you expect.
+
+Ask whether the defender can legally and usefully respond.
+
+Here is the second practice question.
+
+You move your knight to a square no enemy piece attacks. The knight was the only defender of your queen, which is currently attacked by an enemy bishop. Does the safety of the knight's destination make the move safe?
+
+Consider the responsibility it abandoned.
+
+No. The opponent may capture your queen after the knight moves. You need to check the whole position, including the pieces the knight stopped protecting.
+
+There is another important idea: move order.
+
+You may have a sound plan that becomes unsafe if you perform its steps in the wrong order.
+
+Perhaps you want to move your bishop and then bring your rook to an open file. Moving the bishop first leaves the rook undefended for one turn. A preparatory move that protects the rook might make the plan work.
+
+Or perhaps you can give a useful check before making a capture. The check may move the enemy king away from a defensive role. Reversing the order could allow the opponent to escape the combination.
+
+When a promising move fails, ask whether preparation or a different order repairs it. Do not automatically abandon a good strategic idea because the immediate version is tactically flawed.
+
+At the same time, avoid adding unnecessary preparation to a move that already works. Every extra turn gives your opponent a chance to improve.
+
+Safety is about sufficient checking, not endless hesitation.
+
+That brings us to time management.
+
+You cannot calculate every possibility to the end of the game. A practical safety scan concentrates on forcing replies and visible weaknesses.
+
+After imagining your move, look first for enemy checks. Then inspect captures of valuable or loose pieces. Then look for direct threats such as a fork, a mating move, or a pawn promotion.
+
+If none of these creates a problem, examine the positional costs: weakened squares, a restricted piece, or a pawn that becomes difficult to defend.
+
+The depth of your calculation should match the position. A sharp capture near the king deserves more attention than a simple recapture that has no meaningful alternatives. A major pawn break deserves care because it changes several lines at once.
+
+You can also use the opponent's previous move as a clue. A rook moved behind a pawn might prepare an opened file. A bishop retreat might clear a diagonal. A quiet king move might remove a tactical vulnerability and make a new threat possible.
+
+Safety improves when you understand what the opponent is trying to do.
+
+Let's consider what happens when you discover that a move is unsafe.
+
+First, identify the exact refutation. Say what the opponent would play and what you would lose. A vague feeling that something is wrong is useful as a warning, but a concrete reason teaches you more.
+
+Second, ask whether another candidate achieves the same purpose safely. You might use a different piece, protect a target first, or exchange the dangerous attacker.
+
+Third, compare the cost of preparation. If repairing the idea takes several weakening moves, a different plan may be better.
+
+This process turns a rejected move into information about the position.
+
+It also helps you learn from mistakes after a game. Instead of saying that you hung a rook, identify why you missed the loss. Did you forget a knight attack? Move the rook's defender? Overlook an opened diagonal? Assume the opponent had to recapture?
+
+Each cause suggests a specific habit to train.
+
+Our final practice question is about an attacked square.
+
+Your bishop can capture an enemy rook. The bishop will then be taken by a pawn. Assume there are no other threats or tactical consequences. Is the capture unsafe merely because the bishop's destination is attacked?
+
+Count the exchange.
+
+No. Trading a bishop for a rook is normally favorable. A safe decision may include losing the capturing piece when the full sequence benefits you. Safety is not the same as keeping every piece untouched.
+
+One useful warning is a change in the number of exposed pieces. If your proposed move leaves two pieces unprotected, inspect possible double attacks even when neither piece is attacked immediately. Your opponent may need only one move to create both threats. Protecting a piece in advance can sometimes prevent that entire family of tactics and make your active plan easier to carry out.
+
+Let's build the complete routine in spoken form.
+
+Can my piece legally make this move? Will my king remain safe from immediate attack? Can the moved piece be captured, and what happens after the recapture? What does the move stop defending or blocking? Which checks, captures, and serious threats become available to the opponent?
+
+Then add one final question: is there a simpler move that achieves the same goal with fewer problems?
+
+You may initially need to ask each question deliberately. With practice, several will become automatic. You will notice loose pieces, open lines, and knight forks more quickly because you have trained yourself to look for them.
+
+For your next few games, focus on the square you are leaving as much as the square you are entering. This single change catches many mistakes that destination-only thinking misses.
+
+After each game, choose one safe move you were pleased with and explain what you checked. Positive examples matter too. They show you which thinking habits are already helping.
+
+A move becomes trustworthy when its purpose survives the opponent's best immediate reply. You can still play actively, capture material, and create threats. You simply give those ideas a brief inspection before placing them on the board.
+
+Picture the move, let your opponent answer in your imagination, and check what changed for both sides. That small pause can save far more time and material than it costs.

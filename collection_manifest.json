@@ -1,0 +1,1840 @@
+{
+  "tutorialCount": 200,
+  "totalWords": 492720,
+  "estimatedHoursAt150WordsPerMinute": 54.7,
+  "groups": 20,
+  "lessonWordRange": [
+    2402,
+    2675
+  ],
+  "referenceUrls": [
+    "https://handbook.fide.com/chapter/e012023",
+    "https://www.chess.com/terms/hanging-pawns-chess",
+    "https://eduarchive.fide.com/wp-content/uploads/2020/05/glossary_en.pdf",
+    "https://www.chess.com/terms/minority-attack-chess",
+    "https://www.chess.com/terms/connected-passed-pawns-chess",
+    "https://www.logicalchess.com/learn/lessons/endgame/rlesson.html",
+    "https://www.chess.com/openings/Italian-Game",
+    "https://www.chess.com/openings/Ruy-Lopez-Opening",
+    "https://www.chess.com/openings/Scotch-Game",
+    "https://www.chess.com/openings/Queens-Gambit",
+    "https://www.chess.com/openings/Slav-Defense",
+    "https://www.chess.com/openings/French-Defense",
+    "https://www.chess.com/openings/Caro-Kann-Defense",
+    "https://www.chess.com/openings/Sicilian-Defense",
+    "https://www.chess.com/terms/fianchetto-chess",
+    "https://www.chess.com/terms/exchange-sacrifice-chess",
+    "https://www.chess.com/lessons/rook-and-other-endgames",
+    "https://www.chess.com/blog/ChessSavvy/endgame-savvy-bishop-vs-rook-no-pawns",
+    "https://www.chess.com/article/view/rook-vs-knight",
+    "https://www.gutenberg.org/cache/epub/33870/pg33870-images.html",
+    "https://www.chess.com/lessons/pawn-endings-beginner-to-expert",
+    "https://www.chess.com/lessons/pawn-play-in-the-endgame",
+    "https://www.chess.com/lessons/endgame-patterns",
+    "https://www.chess.com/article/view/the-two-rook-endings-you-must-know",
+    "https://www.chess.com/terms/philidor-position-chess",
+    "https://tablebase.lichess.ovh/standard"
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "What You Are Trying to Achieve in a Chess Game",
+      "filename": "001_What_You_Are_Trying_to_Achieve_in_a_Chess_Game.txt",
+      "words": 2474,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 2,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Understanding How Each Piece Moves and Works",
+      "filename": "002_Understanding_How_Each_Piece_Moves_and_Works.txt",
+      "words": 2450,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 3,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Understanding the Board Without Coordinates",
+      "filename": "003_Understanding_the_Board_Without_Coordinates.txt",
+      "words": 2423,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 4,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Piece Values and What Material Is Really Worth",
+      "filename": "004_Piece_Values_and_What_Material_Is_Really_Worth.txt",
+      "words": 2438,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 5,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "How to Tell Whether a Move Is Safe",
+      "filename": "005_How_to_Tell_Whether_a_Move_Is_Safe.txt",
+      "words": 2424,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 6,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Getting Out of Check and Using Check Wisely",
+      "filename": "006_Getting_Out_of_Check_and_Using_Check_Wisely.txt",
+      "words": 2414,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 7,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Checkmate and Stalemate Explained Clearly",
+      "filename": "007_Checkmate_and_Stalemate_Explained_Clearly.txt",
+      "words": 2423,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 8,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Castling and Choosing a Safe Home for Your King",
+      "filename": "008_Castling_and_Choosing_a_Safe_Home_for_Your_King.txt",
+      "words": 2414,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 9,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Pawn Movement Promotion and En Passant",
+      "filename": "009_Pawn_Movement_Promotion_and_En_Passant.txt",
+      "words": 2430,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 10,
+      "groupNumber": 1,
+      "group": "Chess Essentials",
+      "title": "Your First Ten Moves and Their Purpose",
+      "filename": "010_Your_First_Ten_Moves_and_Their_Purpose.txt",
+      "words": 2444,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 11,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "When to Capture and When to Leave the Tension",
+      "filename": "011_When_to_Capture_and_When_to_Leave_the_Tension.txt",
+      "words": 2464,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 12,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "Reading Your Opponents Last Move",
+      "filename": "012_Reading_Your_Opponents_Last_Move.txt",
+      "words": 2443,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 13,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "Finding Loose and Undefended Pieces",
+      "filename": "013_Finding_Loose_and_Undefended_Pieces.txt",
+      "words": 2402,
+      "minutesAt150": 16
+    },
+    {
+      "number": 14,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "Counting Attackers and Defenders Correctly",
+      "filename": "014_Counting_Attackers_and_Defenders_Correctly.txt",
+      "words": 2448,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 15,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "A King Safety Check Before Every Move",
+      "filename": "015_A_King_Safety_Check_Before_Every_Move.txt",
+      "words": 2450,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 16,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "Checks Captures and Serious Threats",
+      "filename": "016_Checks_Captures_and_Serious_Threats.txt",
+      "words": 2476,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 17,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "Choosing Candidate Moves",
+      "filename": "017_Choosing_Candidate_Moves.txt",
+      "words": 2477,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 18,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "Comparing Two Reasonable Moves",
+      "filename": "018_Comparing_Two_Reasonable_Moves.txt",
+      "words": 2445,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 19,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "Thinking From Your Opponents Side",
+      "filename": "019_Thinking_From_Your_Opponents_Side.txt",
+      "words": 2483,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 20,
+      "groupNumber": 2,
+      "group": "Reliable Thinking Habits",
+      "title": "The Final Blunder Check",
+      "filename": "020_The_Final_Blunder_Check.txt",
+      "words": 2480,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 21,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Double Attacks and Forks",
+      "filename": "021_Double_Attacks_and_Forks.txt",
+      "words": 2490,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 22,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "How to Create and Avoid Knight Forks",
+      "filename": "022_How_to_Create_and_Avoid_Knight_Forks.txt",
+      "words": 2446,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 23,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Pawn Forks and Pawn Attacks With Tempo",
+      "filename": "023_Pawn_Forks_and_Pawn_Attacks_With_Tempo.txt",
+      "words": 2512,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 24,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Pins and Their Practical Uses",
+      "filename": "024_Pins_and_Their_Practical_Uses.txt",
+      "words": 2433,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 25,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Skewers and Attacks Along a Line",
+      "filename": "025_Skewers_and_Attacks_Along_a_Line.txt",
+      "words": 2414,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 26,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Discovered Attacks",
+      "filename": "026_Discovered_Attacks.txt",
+      "words": 2439,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 27,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Double Check and Forcing King Moves",
+      "filename": "027_Double_Check_and_Forcing_King_Moves.txt",
+      "words": 2467,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 28,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Back Rank Tactics",
+      "filename": "028_Back_Rank_Tactics.txt",
+      "words": 2413,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 29,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "Building and Escaping a Mating Net",
+      "filename": "029_Building_and_Escaping_a_Mating_Net.txt",
+      "words": 2472,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 30,
+      "groupNumber": 3,
+      "group": "Recognizing Tactics",
+      "title": "The Warning Signs That a Tactic Exists",
+      "filename": "030_The_Warning_Signs_That_a_Tactic_Exists.txt",
+      "words": 2406,
+      "minutesAt150": 16
+    },
+    {
+      "number": 31,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Removing a Defender",
+      "filename": "031_Removing_a_Defender.txt",
+      "words": 2424,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 32,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Deflection and Pulling a Defender Away",
+      "filename": "032_Deflection_and_Pulling_a_Defender_Away.txt",
+      "words": 2446,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 33,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Decoys and Luring a Piece Onto a Bad Square",
+      "filename": "033_Decoys_and_Luring_a_Piece_Onto_a_Bad_Square.txt",
+      "words": 2491,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 34,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Overloaded Defenders",
+      "filename": "034_Overloaded_Defenders.txt",
+      "words": 2439,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 35,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Interference and Cutting Defensive Lines",
+      "filename": "035_Interference_and_Cutting_Defensive_Lines.txt",
+      "words": 2455,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 36,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Clearance and Opening a Route for Your Pieces",
+      "filename": "036_Clearance_and_Opening_a_Route_for_Your_Pieces.txt",
+      "words": 2485,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 37,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "The In Between Move",
+      "filename": "037_The_In_Between_Move.txt",
+      "words": 2542,
+      "minutesAt150": 16.9
+    },
+    {
+      "number": 38,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Desperado Moves and Pieces That Are Already Lost",
+      "filename": "038_Desperado_Moves_and_Pieces_That_Are_Already_Lost.txt",
+      "words": 2485,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 39,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Promotion Tactics and Underpromotion",
+      "filename": "039_Promotion_Tactics_and_Underpromotion.txt",
+      "words": 2475,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 40,
+      "groupNumber": 4,
+      "group": "Building Combinations",
+      "title": "Combining Two Tactical Ideas",
+      "filename": "040_Combining_Two_Tactical_Ideas.txt",
+      "words": 2467,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 41,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Visualizing Changed Relationships During Calculation",
+      "filename": "041_Visualizing_Changed_Relationships_During_Calculation.txt",
+      "words": 2520,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 42,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Calculating Short Lines Accurately",
+      "filename": "042_Calculating_Short_Lines_Accurately.txt",
+      "words": 2411,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 43,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Keeping Track of Branches Without Getting Lost",
+      "filename": "043_Keeping_Track_of_Branches_Without_Getting_Lost.txt",
+      "words": 2516,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 44,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Forcing Moves and Quiet Tactical Moves",
+      "filename": "044_Forcing_Moves_and_Quiet_Tactical_Moves.txt",
+      "words": 2476,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 45,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Knowing When to Stop Calculating",
+      "filename": "045_Knowing_When_to_Stop_Calculating.txt",
+      "words": 2481,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 46,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Calculating a Capture Sequence to the End",
+      "filename": "046_Calculating_a_Capture_Sequence_to_the_End.txt",
+      "words": 2465,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 47,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Checking Whether a Sacrifice Works",
+      "filename": "047_Checking_Whether_a_Sacrifice_Works.txt",
+      "words": 2489,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 48,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "What If Your Opponent Declines the Offer",
+      "filename": "048_What_If_Your_Opponent_Declines_the_Offer.txt",
+      "words": 2445,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 49,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Comparing the Positions at the End of Your Lines",
+      "filename": "049_Comparing_the_Positions_at_the_End_of_Your_Lines.txt",
+      "words": 2441,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 50,
+      "groupNumber": 5,
+      "group": "Calculation You Can Use",
+      "title": "Making a Sound Decision When You Cannot Calculate Everything",
+      "filename": "050_Making_a_Sound_Decision_When_You_Cannot_Calculate_Everything.txt",
+      "words": 2441,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 51,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Knowing When Your Position Is Ready for an Attack",
+      "filename": "051_Knowing_When_Your_Position_Is_Ready_for_an_Attack.txt",
+      "words": 2490,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 52,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Finding Targets Around the Enemy King",
+      "filename": "052_Finding_Targets_Around_the_Enemy_King.txt",
+      "words": 2531,
+      "minutesAt150": 16.9
+    },
+    {
+      "number": 53,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Attacking With Kings on Opposite Sides",
+      "filename": "053_Attacking_With_Kings_on_Opposite_Sides.txt",
+      "words": 2459,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 54,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Using a Pawn Storm With a Purpose",
+      "filename": "054_Using_a_Pawn_Storm_With_a_Purpose.txt",
+      "words": 2473,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 55,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Attacking a King That Stayed in the Center",
+      "filename": "055_Attacking_a_King_That_Stayed_in_the_Center.txt",
+      "words": 2485,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 56,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Rook Lifts and Bringing More Pieces Into an Attack",
+      "filename": "056_Rook_Lifts_and_Bringing_More_Pieces_Into_an_Attack.txt",
+      "words": 2517,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 57,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Coordinating a Queen and Bishop",
+      "filename": "057_Coordinating_a_Queen_and_Bishop.txt",
+      "words": 2492,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 58,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Coordinating a Queen and Knight",
+      "filename": "058_Coordinating_a_Queen_and_Knight.txt",
+      "words": 2489,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 59,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "Opening Files Toward the Enemy King",
+      "filename": "059_Opening_Files_Toward_the_Enemy_King.txt",
+      "words": 2474,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 60,
+      "groupNumber": 6,
+      "group": "Attacking the King",
+      "title": "What to Do When Your Attack Runs Out",
+      "filename": "060_What_to_Do_When_Your_Attack_Runs_Out.txt",
+      "words": 2494,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 61,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Deciding Which Threat Must Be Stopped First",
+      "filename": "061_Deciding_Which_Threat_Must_Be_Stopped_First.txt",
+      "words": 2473,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 62,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Active Defense and Passive Defense",
+      "filename": "062_Active_Defense_and_Passive_Defense.txt",
+      "words": 2482,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 63,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Trading Off the Right Attacking Piece",
+      "filename": "063_Trading_Off_the_Right_Attacking_Piece.txt",
+      "words": 2506,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 64,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Exchanging Queens to Reduce Danger",
+      "filename": "064_Exchanging_Queens_to_Reduce_Danger.txt",
+      "words": 2472,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 65,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Meeting a Flank Attack With Central Play",
+      "filename": "065_Meeting_a_Flank_Attack_With_Central_Play.txt",
+      "words": 2502,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 66,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Creating Escape Squares for Your King",
+      "filename": "066_Creating_Escape_Squares_for_Your_King.txt",
+      "words": 2517,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 67,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Defending Against Checkmate Threats",
+      "filename": "067_Defending_Against_Checkmate_Threats.txt",
+      "words": 2489,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 68,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Perpetual Check as a Defensive Resource",
+      "filename": "068_Perpetual_Check_as_a_Defensive_Resource.txt",
+      "words": 2501,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 69,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Simplifying a Position Under Pressure",
+      "filename": "069_Simplifying_a_Position_Under_Pressure.txt",
+      "words": 2462,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 70,
+      "groupNumber": 7,
+      "group": "Practical Defense",
+      "title": "Staying Resourceful in a Worse Position",
+      "filename": "070_Staying_Resourceful_in_a_Worse_Position.txt",
+      "words": 2570,
+      "minutesAt150": 17.1
+    },
+    {
+      "number": 71,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Creating and Using a Knight Outpost",
+      "filename": "071_Creating_and_Using_a_Knight_Outpost.txt",
+      "words": 2553,
+      "minutesAt150": 17
+    },
+    {
+      "number": 72,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Rerouting a Knight to a Better Job",
+      "filename": "072_Rerouting_a_Knight_to_a_Better_Job.txt",
+      "words": 2517,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 73,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Good Bishops Restricted Bishops and Useful Bishops",
+      "filename": "073_Good_Bishops_Restricted_Bishops_and_Useful_Bishops.txt",
+      "words": 2491,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 74,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Making the Most of the Bishop Pair",
+      "filename": "074_Making_the_Most_of_the_Bishop_Pair.txt",
+      "words": 2549,
+      "minutesAt150": 17
+    },
+    {
+      "number": 75,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Choosing Between a Bishop and a Knight",
+      "filename": "075_Choosing_Between_a_Bishop_and_a_Knight.txt",
+      "words": 2507,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 76,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Understanding Weak Color Complexes",
+      "filename": "076_Understanding_Weak_Color_Complexes.txt",
+      "words": 2499,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 77,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Restricting an Enemy Minor Piece",
+      "filename": "077_Restricting_an_Enemy_Minor_Piece.txt",
+      "words": 2463,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 78,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Trading Your Minor Pieces With a Purpose",
+      "filename": "078_Trading_Your_Minor_Pieces_With_a_Purpose.txt",
+      "words": 2449,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 79,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Opening and Protecting a Bishops Diagonal",
+      "filename": "079_Opening_and_Protecting_a_Bishops_Diagonal.txt",
+      "words": 2473,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 80,
+      "groupNumber": 8,
+      "group": "Knights Bishops and Coordination",
+      "title": "Making Your Pieces Work as a Team",
+      "filename": "080_Making_Your_Pieces_Work_as_a_Team.txt",
+      "words": 2601,
+      "minutesAt150": 17.3
+    },
+    {
+      "number": 81,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Pawn Structure and How to Use Your Pawns",
+      "filename": "081_Pawn_Structure_and_How_to_Use_Your_Pawns.txt",
+      "words": 2590,
+      "minutesAt150": 17.3
+    },
+    {
+      "number": 82,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Pawn Chains and Their Bases",
+      "filename": "082_Pawn_Chains_and_Their_Bases.txt",
+      "words": 2510,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 83,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Playing With and Against an Isolated Pawn",
+      "filename": "083_Playing_With_and_Against_an_Isolated_Pawn.txt",
+      "words": 2442,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 84,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Understanding Doubled Pawns",
+      "filename": "084_Understanding_Doubled_Pawns.txt",
+      "words": 2447,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 85,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Backward Pawns and How to Target Them",
+      "filename": "085_Backward_Pawns_and_How_to_Target_Them.txt",
+      "words": 2476,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 86,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Pawn Islands and the Cost of Defending Them",
+      "filename": "086_Pawn_Islands_and_the_Cost_of_Defending_Them.txt",
+      "words": 2494,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 87,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Pawn Moves Weak Squares and Permanent Holes",
+      "filename": "087_Pawn_Moves_Weak_Squares_and_Permanent_Holes.txt",
+      "words": 2514,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 88,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Keeping or Resolving Pawn Tension",
+      "filename": "088_Keeping_or_Resolving_Pawn_Tension.txt",
+      "words": 2456,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 89,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Gaining Space With Pawns and Using It",
+      "filename": "089_Gaining_Space_With_Pawns_and_Using_It.txt",
+      "words": 2454,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 90,
+      "groupNumber": 9,
+      "group": "Pawn Structure Foundations",
+      "title": "Avoiding Pawn Overextension",
+      "filename": "090_Avoiding_Pawn_Overextension.txt",
+      "words": 2450,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 91,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Finding the Right Pawn Break",
+      "filename": "091_Finding_the_Right_Pawn_Break.txt",
+      "words": 2452,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 92,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Preparing and Timing a Pawn Break",
+      "filename": "092_Preparing_and_Timing_a_Pawn_Break.txt",
+      "words": 2504,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 93,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Fixing an Enemy Pawn as a Target",
+      "filename": "093_Fixing_an_Enemy_Pawn_as_a_Target.txt",
+      "words": 2489,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 94,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Playing With and Against Hanging Pawns",
+      "filename": "094_Playing_With_and_Against_Hanging_Pawns.txt",
+      "words": 2507,
+      "minutesAt150": 16.7
+    },
+    {
+      "number": 95,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Using a Pawn Majority",
+      "filename": "095_Using_a_Pawn_Majority.txt",
+      "words": 2458,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 96,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Understanding the Minority Attack",
+      "filename": "096_Understanding_the_Minority_Attack.txt",
+      "words": 2440,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 97,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Protecting and Changing Your Kings Pawn Shelter",
+      "filename": "097_Protecting_and_Changing_Your_Kings_Pawn_Shelter.txt",
+      "words": 2479,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 98,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Blockading an Enemy Passed Pawn",
+      "filename": "098_Blockading_an_Enemy_Passed_Pawn.txt",
+      "words": 2495,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 99,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Creating and Supporting Connected Passed Pawns",
+      "filename": "099_Creating_and_Supporting_Connected_Passed_Pawns.txt",
+      "words": 2466,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 100,
+      "groupNumber": 10,
+      "group": "Pawn Plans and Transformations",
+      "title": "Using an Outside Passed Pawn",
+      "filename": "100_Using_an_Outside_Passed_Pawn.txt",
+      "words": 2554,
+      "minutesAt150": 17
+    },
+    {
+      "number": 101,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Taking Control of an Open File",
+      "filename": "101_Taking_Control_of_an_Open_File.txt",
+      "words": 2469,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 102,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Using a Half Open File",
+      "filename": "102_Using_a_Half_Open_File.txt",
+      "words": 2423,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 103,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Doubling Rooks Without Wasting Time",
+      "filename": "103_Doubling_Rooks_Without_Wasting_Time.txt",
+      "words": 2435,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 104,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Getting a Rook Into the Enemy Position",
+      "filename": "104_Getting_a_Rook_Into_the_Enemy_Position.txt",
+      "words": 2410,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 105,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Keeping Your Rooks Active",
+      "filename": "105_Keeping_Your_Rooks_Active.txt",
+      "words": 2423,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 106,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Rooks Behind Passed Pawns and the Exceptions",
+      "filename": "106_Rooks_Behind_Passed_Pawns_and_the_Exceptions.txt",
+      "words": 2436,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 107,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Using Your Queen Actively Without Exposing Her",
+      "filename": "107_Using_Your_Queen_Actively_Without_Exposing_Her.txt",
+      "words": 2451,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 108,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Deciding Whether to Exchange Queens",
+      "filename": "108_Deciding_Whether_to_Exchange_Queens.txt",
+      "words": 2406,
+      "minutesAt150": 16
+    },
+    {
+      "number": 109,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Coordinating Queens and Rooks",
+      "filename": "109_Coordinating_Queens_and_Rooks.txt",
+      "words": 2443,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 110,
+      "groupNumber": 11,
+      "group": "Rooks and Queens",
+      "title": "Restricting an Active Enemy Queen",
+      "filename": "110_Restricting_an_Active_Enemy_Queen.txt",
+      "words": 2421,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 111,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Development and the Value of a Tempo",
+      "filename": "111_Development_and_the_Value_of_a_Tempo.txt",
+      "words": 2435,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 112,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Occupying the Center and Controlling It From a Distance",
+      "filename": "112_Occupying_the_Center_and_Controlling_It_From_a_Distance.txt",
+      "words": 2427,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 113,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Responding to Early Queen Adventures",
+      "filename": "113_Responding_to_Early_Queen_Adventures.txt",
+      "words": 2411,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 114,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Accepting or Declining a Gambit",
+      "filename": "114_Accepting_or_Declining_a_Gambit.txt",
+      "words": 2415,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 115,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Choosing Opening Exchanges Carefully",
+      "filename": "115_Choosing_Opening_Exchanges_Carefully.txt",
+      "words": 2440,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 116,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Connecting Your Opening to a Pawn Structure",
+      "filename": "116_Connecting_Your_Opening_to_a_Pawn_Structure.txt",
+      "words": 2411,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 117,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Finding a Move When Your Opening Knowledge Ends",
+      "filename": "117_Finding_a_Move_When_Your_Opening_Knowledge_Ends.txt",
+      "words": 2407,
+      "minutesAt150": 16
+    },
+    {
+      "number": 118,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Meeting Unusual Opening Moves Calmly",
+      "filename": "118_Meeting_Unusual_Opening_Moves_Calmly.txt",
+      "words": 2428,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 119,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Playing for a Healthy Position With Black",
+      "filename": "119_Playing_for_a_Healthy_Position_With_Black.txt",
+      "words": 2409,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 120,
+      "groupNumber": 12,
+      "group": "Opening Skills",
+      "title": "Building a Small Opening Repertoire You Understand",
+      "filename": "120_Building_a_Small_Opening_Repertoire_You_Understand.txt",
+      "words": 2440,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 121,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Open King Pawn Games and Their Typical Plans",
+      "filename": "121_Open_King_Pawn_Games_and_Their_Typical_Plans.txt",
+      "words": 2435,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 122,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding the Italian Game Through Its Ideas",
+      "filename": "122_Understanding_the_Italian_Game_Through_Its_Ideas.txt",
+      "words": 2445,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 123,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding the Spanish Opening Through Its Ideas",
+      "filename": "123_Understanding_the_Spanish_Opening_Through_Its_Ideas.txt",
+      "words": 2445,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 124,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding the Scotch Game Through Its Ideas",
+      "filename": "124_Understanding_the_Scotch_Game_Through_Its_Ideas.txt",
+      "words": 2421,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 125,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding the Queens Gambit Through Its Ideas",
+      "filename": "125_Understanding_the_Queens_Gambit_Through_Its_Ideas.txt",
+      "words": 2443,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 126,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding Slav Structures and Development",
+      "filename": "126_Understanding_Slav_Structures_and_Development.txt",
+      "words": 2452,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 127,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding French Defense Pawn Chains",
+      "filename": "127_Understanding_French_Defense_Pawn_Chains.txt",
+      "words": 2480,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 128,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding Caro Kann Structures and Piece Play",
+      "filename": "128_Understanding_Caro_Kann_Structures_and_Piece_Play.txt",
+      "words": 2461,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 129,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding Sicilian Imbalances and Counterplay",
+      "filename": "129_Understanding_Sicilian_Imbalances_and_Counterplay.txt",
+      "words": 2450,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 130,
+      "groupNumber": 13,
+      "group": "Opening Families Through Plans",
+      "title": "Understanding Fianchetto Setups",
+      "filename": "130_Understanding_Fianchetto_Setups.txt",
+      "words": 2422,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 131,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Evaluating a Position Before Choosing a Plan",
+      "filename": "131_Evaluating_a_Position_Before_Choosing_a_Plan.txt",
+      "words": 2525,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 132,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Improving Your Worst Placed Piece",
+      "filename": "132_Improving_Your_Worst_Placed_Piece.txt",
+      "words": 2546,
+      "minutesAt150": 17
+    },
+    {
+      "number": 133,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Maneuvering Behind a Space Advantage",
+      "filename": "133_Maneuvering_Behind_a_Space_Advantage.txt",
+      "words": 2562,
+      "minutesAt150": 17.1
+    },
+    {
+      "number": 134,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Prophylaxis and Preventing Your Opponents Plan",
+      "filename": "134_Prophylaxis_and_Preventing_Your_Opponents_Plan.txt",
+      "words": 2592,
+      "minutesAt150": 17.3
+    },
+    {
+      "number": 135,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "The Principle of Two Weaknesses",
+      "filename": "135_The_Principle_of_Two_Weaknesses.txt",
+      "words": 2639,
+      "minutesAt150": 17.6
+    },
+    {
+      "number": 136,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Exchanging Pieces to Improve the Remaining Position",
+      "filename": "136_Exchanging_Pieces_to_Improve_the_Remaining_Position.txt",
+      "words": 2521,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 137,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Controlling an Important Square",
+      "filename": "137_Controlling_an_Important_Square.txt",
+      "words": 2544,
+      "minutesAt150": 17
+    },
+    {
+      "number": 138,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Balancing Lasting Advantages Against Temporary Activity",
+      "filename": "138_Balancing_Lasting_Advantages_Against_Temporary_Activity.txt",
+      "words": 2606,
+      "minutesAt150": 17.4
+    },
+    {
+      "number": 139,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Finding a Useful Quiet Move",
+      "filename": "139_Finding_a_Useful_Quiet_Move.txt",
+      "words": 2605,
+      "minutesAt150": 17.4
+    },
+    {
+      "number": 140,
+      "groupNumber": 14,
+      "group": "Positional Understanding",
+      "title": "Switching Play From One Side to the Other",
+      "filename": "140_Switching_Play_From_One_Side_to_the_Other.txt",
+      "words": 2675,
+      "minutesAt150": 17.8
+    },
+    {
+      "number": 141,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Building a Middlegame Plan After Development",
+      "filename": "141_Building_a_Middlegame_Plan_After_Development.txt",
+      "words": 2444,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 142,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Planning With an Open Closed or Changing Center",
+      "filename": "142_Planning_With_an_Open_Closed_or_Changing_Center.txt",
+      "words": 2452,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 143,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Connecting Central Play With Flank Play",
+      "filename": "143_Connecting_Central_Play_With_Flank_Play.txt",
+      "words": 2451,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 144,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Sacrificing a Pawn for Activity",
+      "filename": "144_Sacrificing_a_Pawn_for_Activity.txt",
+      "words": 2458,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 145,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Understanding an Exchange Sacrifice",
+      "filename": "145_Understanding_an_Exchange_Sacrifice.txt",
+      "words": 2438,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 146,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Understanding Positional Sacrifices",
+      "filename": "146_Understanding_Positional_Sacrifices.txt",
+      "words": 2432,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 147,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Accepting a Weakness for a Concrete Benefit",
+      "filename": "147_Accepting_a_Weakness_for_a_Concrete_Benefit.txt",
+      "words": 2528,
+      "minutesAt150": 16.9
+    },
+    {
+      "number": 148,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Judging Compensation for Material",
+      "filename": "148_Judging_Compensation_for_Material.txt",
+      "words": 2432,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 149,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Transforming One Advantage Into Another",
+      "filename": "149_Transforming_One_Advantage_Into_Another.txt",
+      "words": 2525,
+      "minutesAt150": 16.8
+    },
+    {
+      "number": 150,
+      "groupNumber": 15,
+      "group": "Making and Changing Plans",
+      "title": "Reassessing Your Plan After a Major Change",
+      "filename": "150_Reassessing_Your_Plan_After_a_Major_Change.txt",
+      "words": 2470,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 151,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Winning With an Extra Pawn in the Middlegame",
+      "filename": "151_Winning_With_an_Extra_Pawn_in_the_Middlegame.txt",
+      "words": 2446,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 152,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Winning With an Extra Piece",
+      "filename": "152_Winning_With_an_Extra_Piece.txt",
+      "words": 2448,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 153,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Making an Extra Exchange Count",
+      "filename": "153_Making_an_Extra_Exchange_Count.txt",
+      "words": 2449,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 154,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Converting an Advantage While Queens Remain",
+      "filename": "154_Converting_an_Advantage_While_Queens_Remain.txt",
+      "words": 2442,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 155,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Choosing the Right Endgame to Enter",
+      "filename": "155_Choosing_the_Right_Endgame_to_Enter.txt",
+      "words": 2409,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 156,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Winning a Weak Pawn Without Losing Your Initiative",
+      "filename": "156_Winning_a_Weak_Pawn_Without_Losing_Your_Initiative.txt",
+      "words": 2444,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 157,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Staying Patient in a Winning Position",
+      "filename": "157_Staying_Patient_in_a_Winning_Position.txt",
+      "words": 2402,
+      "minutesAt150": 16
+    },
+    {
+      "number": 158,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Reducing Your Opponents Counterplay",
+      "filename": "158_Reducing_Your_Opponents_Counterplay.txt",
+      "words": 2444,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 159,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Creating a Second Target During Conversion",
+      "filename": "159_Creating_a_Second_Target_During_Conversion.txt",
+      "words": 2433,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 160,
+      "groupNumber": 16,
+      "group": "Converting Advantages",
+      "title": "Preparing the Transition From Middlegame to Endgame",
+      "filename": "160_Preparing_the_Transition_From_Middlegame_to_Endgame.txt",
+      "words": 2442,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 161,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Activating Your King in a Pawn Endgame",
+      "filename": "161_Activating_Your_King_in_a_Pawn_Endgame.txt",
+      "words": 2465,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 162,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Understanding the Opposition",
+      "filename": "162_Understanding_the_Opposition.txt",
+      "words": 2440,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 163,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Key Squares and Escorting a Passed Pawn",
+      "filename": "163_Key_Squares_and_Escorting_a_Passed_Pawn.txt",
+      "words": 2415,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 164,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Triangulation and Changing Whose Turn It Is",
+      "filename": "164_Triangulation_and_Changing_Whose_Turn_It_Is.txt",
+      "words": 2409,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 165,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Reserve Pawn Moves and the Value of a Tempo",
+      "filename": "165_Reserve_Pawn_Moves_and_the_Value_of_a_Tempo.txt",
+      "words": 2452,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 166,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Pawn Breakthroughs",
+      "filename": "166_Pawn_Breakthroughs.txt",
+      "words": 2434,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 167,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Calculating a Pawn Race",
+      "filename": "167_Calculating_a_Pawn_Race.txt",
+      "words": 2461,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 168,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Outside Passed Pawns in King and Pawn Endings",
+      "filename": "168_Outside_Passed_Pawns_in_King_and_Pawn_Endings.txt",
+      "words": 2470,
+      "minutesAt150": 16.5
+    },
+    {
+      "number": 169,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Rook Pawns and Corner Drawing Ideas",
+      "filename": "169_Rook_Pawns_and_Corner_Drawing_Ideas.txt",
+      "words": 2452,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 170,
+      "groupNumber": 17,
+      "group": "King and Pawn Endings",
+      "title": "Zugzwang and the Problem of Having to Move",
+      "filename": "170_Zugzwang_and_the_Problem_of_Having_to_Move.txt",
+      "words": 2419,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 171,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Rook Activity in the Endgame",
+      "filename": "171_Rook_Activity_in_the_Endgame.txt",
+      "words": 2410,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 172,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Cutting Off the Enemy King",
+      "filename": "172_Cutting_Off_the_Enemy_King.txt",
+      "words": 2452,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 173,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Supporting and Attacking Passed Pawns With a Rook",
+      "filename": "173_Supporting_and_Attacking_Passed_Pawns_With_a_Rook.txt",
+      "words": 2449,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 174,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "The Winning Bridge Idea in Rook Endings",
+      "filename": "174_The_Winning_Bridge_Idea_in_Rook_Endings.txt",
+      "words": 2434,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 175,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "The Third Rank Defense in Rook Endings",
+      "filename": "175_The_Third_Rank_Defense_in_Rook_Endings.txt",
+      "words": 2408,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 176,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Checking Distance and Defensive Space",
+      "filename": "176_Checking_Distance_and_Defensive_Space.txt",
+      "words": 2451,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 177,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Side Checks and Attacks From Behind",
+      "filename": "177_Side_Checks_and_Attacks_From_Behind.txt",
+      "words": 2442,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 178,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Defending a Rook Ending a Pawn Down",
+      "filename": "178_Defending_a_Rook_Ending_a_Pawn_Down.txt",
+      "words": 2444,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 179,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Rook Endings With Connected Passed Pawns",
+      "filename": "179_Rook_Endings_With_Connected_Passed_Pawns.txt",
+      "words": 2426,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 180,
+      "groupNumber": 18,
+      "group": "Rook Endings",
+      "title": "Before You Trade the Last Pair of Rooks",
+      "filename": "180_Before_You_Trade_the_Last_Pair_of_Rooks.txt",
+      "words": 2450,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 181,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Bishop Endings and the Pawns They Can Attack",
+      "filename": "181_Bishop_Endings_and_the_Pawns_They_Can_Attack.txt",
+      "words": 2407,
+      "minutesAt150": 16
+    },
+    {
+      "number": 182,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Knight Endings and the Limits of the Knight",
+      "filename": "182_Knight_Endings_and_the_Limits_of_the_Knight.txt",
+      "words": 2436,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 183,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Bishop Against Knight in the Endgame",
+      "filename": "183_Bishop_Against_Knight_in_the_Endgame.txt",
+      "words": 2426,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 184,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Opposite Colored Bishop Endings",
+      "filename": "184_Opposite_Colored_Bishop_Endings.txt",
+      "words": 2408,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 185,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Same Colored Bishop Endings",
+      "filename": "185_Same_Colored_Bishop_Endings.txt",
+      "words": 2445,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 186,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Queen Endings and the Danger of Repeated Checks",
+      "filename": "186_Queen_Endings_and_the_Danger_of_Repeated_Checks.txt",
+      "words": 2419,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 187,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Queen Against a Dangerous Passed Pawn",
+      "filename": "187_Queen_Against_a_Dangerous_Passed_Pawn.txt",
+      "words": 2436,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 188,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Rook Against a Minor Piece",
+      "filename": "188_Rook_Against_a_Minor_Piece.txt",
+      "words": 2483,
+      "minutesAt150": 16.6
+    },
+    {
+      "number": 189,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Checkmating With a King and Rook",
+      "filename": "189_Checkmating_With_a_King_and_Rook.txt",
+      "words": 2426,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 190,
+      "groupNumber": 19,
+      "group": "Other Essential Endings",
+      "title": "Checkmating With a King and Queen",
+      "filename": "190_Checkmating_With_a_King_and_Queen.txt",
+      "words": 2463,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 191,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Managing Your Clock and Choosing When to Think",
+      "filename": "191_Managing_Your_Clock_and_Choosing_When_to_Think.txt",
+      "words": 2411,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 192,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Choosing Practical Moves in Unclear Positions",
+      "filename": "192_Choosing_Practical_Moves_in_Unclear_Positions.txt",
+      "words": 2406,
+      "minutesAt150": 16
+    },
+    {
+      "number": 193,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Creating Chances When You Are Losing",
+      "filename": "193_Creating_Chances_When_You_Are_Losing.txt",
+      "words": 2436,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 194,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Finding Draws Through Repetition and Stalemate",
+      "filename": "194_Finding_Draws_Through_Repetition_and_Stalemate.txt",
+      "words": 2436,
+      "minutesAt150": 16.2
+    },
+    {
+      "number": 195,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Reviewing Your Own Games Productively",
+      "filename": "195_Reviewing_Your_Own_Games_Productively.txt",
+      "words": 2453,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 196,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Training Tactics for Better Decisions in Real Games",
+      "filename": "196_Training_Tactics_for_Better_Decisions_in_Real_Games.txt",
+      "words": 2407,
+      "minutesAt150": 16
+    },
+    {
+      "number": 197,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Learning From Master Games Without Memorizing Moves",
+      "filename": "197_Learning_From_Master_Games_Without_Memorizing_Moves.txt",
+      "words": 2453,
+      "minutesAt150": 16.4
+    },
+    {
+      "number": 198,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Building a Sustainable Chess Practice Routine",
+      "filename": "198_Building_a_Sustainable_Chess_Practice_Routine.txt",
+      "words": 2411,
+      "minutesAt150": 16.1
+    },
+    {
+      "number": 199,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Recovering From a Blunder and Handling Frustration",
+      "filename": "199_Recovering_From_a_Blunder_and_Handling_Frustration.txt",
+      "words": 2439,
+      "minutesAt150": 16.3
+    },
+    {
+      "number": 200,
+      "groupNumber": 20,
+      "group": "Training and Practical Play",
+      "title": "Putting Your Chess Thinking Routine Together",
+      "filename": "200_Putting_Your_Chess_Thinking_Routine_Together.txt",
+      "words": 2493,
+      "minutesAt150": 16.6
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+Understanding How Each Piece Moves and Works
+
+Learning how the chess pieces move is more than learning a collection of rules. Each movement pattern gives a piece particular strengths, weaknesses, and jobs. A bishop likes clear diagonals. A rook needs open straight lines. A knight can jump over a crowded position. A pawn protects different squares from the ones it moves toward.
+
+In this lesson, we will connect movement with purpose. We will use words and simple relationships, so you can follow without a visible board. The aim is to understand what each piece can do and how to check whether a proposed move is legal.
+
+Start by imagining a square board made of eight rows and eight columns. The colors alternate between light and dark. When the board is placed correctly, each player has a light square in the nearest right-hand corner.
+
+Each player begins with eight pawns in a row and eight other pieces behind them. The rooks occupy the corners. The knights stand beside the rooks, and the bishops stand beside the knights. The king and queen occupy the two remaining central squares. Each queen starts on a square matching her own color.
+
+White takes the first turn, and then the players alternate. On an ordinary turn, you move one piece. Castling is a special exception involving the king and a rook, which we will describe later.
+
+You cannot finish a move on a square occupied by another friendly piece. If a legal move ends on a square occupied by an enemy piece, that enemy piece is captured and removed. The capturing piece normally takes its place.
+
+The unusual pawn capture called en passant is an exception to that last description. It has specific conditions, and we will return to it after the ordinary movements are clear.
+
+Let's start with the rook.
+
+A rook moves in a straight line along a row or a column. It may travel one square or several squares, as long as the route is clear. It cannot turn a corner during a move, and it cannot move diagonally.
+
+Imagine a rook looking down a corridor of empty squares. It can stop anywhere along that corridor. If an enemy bishop stands farther down the corridor with nothing between them, the rook can capture the bishop and stop on its square.
+
+If a friendly pawn stands between the rook and that bishop, the rook cannot jump over the pawn. The pawn blocks the route. If an enemy pawn stands in the way, the rook may be able to capture that pawn, but it cannot pass through the pawn to reach the bishop during the same move.
+
+That is a useful way to inspect a rook: follow each straight line until you reach the first occupied square or the edge of the board.
+
+Rooks often become stronger after pawns move or are exchanged, because those changes open routes. A rook behind a wall of friendly pawns may have little immediate activity, even though its movement rule allows long journeys.
+
+Next comes the bishop.
+
+A bishop moves diagonally, as far as it likes along a clear route. A diagonal connects squares that touch at their corners. The bishop cannot move straight along a row or column, and it cannot turn during a move.
+
+Like the rook, the bishop cannot jump over any piece.
+
+Every bishop stays on the same color of square throughout the game. A bishop that starts on a dark square always moves to another dark square. A bishop that starts on a light square always stays on light squares.
+
+This explains why your two bishops can complement each other. Together they can influence both color groups. One bishop alone can never directly attack a piece sitting on the opposite color.
+
+Imagine an enemy pawn safely placed on a light square while your only bishop moves on dark squares. Your bishop cannot capture that pawn from any distance. You may need your king, a knight, or a pawn to help attack it.
+
+A bishop's long range also creates hidden relationships. A pawn may appear to be the immediate obstacle, but behind that pawn could be an enemy rook or king. If the pawn moves away, the bishop's influence extends farther along the same diagonal.
+
+Now consider the queen.
+
+The queen combines the movement of the rook and bishop. She can move along clear rows, columns, or diagonals. She may travel one square or many, but she cannot jump over pieces or change direction during a single move.
+
+Her flexibility makes her powerful, but it does not make her invulnerable. If she captures a defended pawn, an enemy piece may capture her in return. A queen can also be trapped if her safe routes are cut off.
+
+Beginners sometimes bring the queen out early because she can reach so many squares. The difficulty is that less valuable enemy pieces may attack her while developing. She moves again and again while the rest of her army waits.
+
+The movement rule tells you where the queen can go. Good judgment tells you when she should go there.
+
+Let's turn to the knight, whose movement is different from every other piece.
+
+A knight lands two squares away in one straight direction and one square to the side. Another way to imagine it is the far corner of a small rectangle that is two squares long and one square wide. This pattern is often called an L shape.
+
+The knight makes the whole move at once. It does not stop on an intermediate square, and it does not capture anything along an imagined path.
+
+Most importantly, the knight can jump over other pieces. Friendly and enemy pieces between its starting square and landing square do not block it. Only the landing square matters for occupation: it must be empty or occupied by an enemy piece that the knight can legally capture.
+
+A knight always changes square color when it moves. From a light square it goes to a dark square, and from a dark square it goes to a light square.
+
+Near the center, a knight may have up to eight possible landing squares. Near an edge, some of that pattern lies outside the board, so fewer destinations are available. This is one reason a knight often prefers central activity.
+
+However, a knight on the edge can still have a useful job. It may attack an important pawn or prepare a route to a strong square. Judge the position, not just the distance from the center.
+
+A knight's unusual attacks also explain why it can surprise players. A rook and king may appear safely separated, yet one knight move can attack both. Because the knight jumps, placing a piece between the knight and its target does not block the attack.
+
+Now let's discuss the king.
+
+The king normally moves one square in any direction: forward, backward, sideways, or diagonally. It can capture an enemy piece on a neighboring square, but only if the resulting position is legal.
+
+The king may never move onto an attacked square. It also may not remain in check after your move. These restrictions apply even when the enemy piece giving the attack looks vulnerable.
+
+Imagine an enemy rook beside your king. The rook is protected by an enemy bishop. Your king cannot capture that rook if the capture would place the king on the bishop's attacked diagonal.
+
+Before a king capture, remove the captured piece in your mind and inspect the destination again. A piece behind the captured piece might now have a clear line to the king.
+
+Two kings cannot occupy neighboring squares. Each king controls the squares around it, so bringing them next to each other would place them under attack.
+
+There is a subtle point worth learning early. An enemy piece can still make a square unsafe for your king even if that piece is pinned to its own king. You cannot treat the pin as permission to step your king into that piece's attack.
+
+For ordinary moves by other pieces, a pin can prevent a legal capture. For king movement, attacked-square rules need this extra care.
+
+Let's test the movement ideas with our first practice question.
+
+A rook has an enemy queen on the same straight line, but a friendly pawn stands between them. Can the rook capture the queen because the queen is farther along a line the rook normally uses?
+
+Pause and picture the obstacle.
+
+No. The rook cannot jump over the friendly pawn. It must stop before that pawn, move along another clear line, or wait until the obstruction is removed. Long range does not cancel the need for a clear route.
+
+Next, let's examine pawns.
+
+A pawn moves straight forward toward the opponent's side of the board. It normally advances one square, and that square must be empty. It does not move backward.
+
+From its original starting square, a pawn may instead advance two squares if both the square it passes through and the destination are empty. This option belongs to a pawn on its starting square; it is not something the pawn can save for a later move after advancing.
+
+A pawn captures one square diagonally forward. It does not capture straight ahead, and it cannot make an ordinary diagonal move to an empty square.
+
+That means a pawn's movement and attack patterns differ. A pawn directly in front of an enemy rook may be blocking the rook without attacking it. A piece on the pawn's forward diagonal may be attacked even if the pawn cannot advance straight ahead.
+
+When a pawn reaches the farthest row, it must promote. You replace it immediately with a queen, rook, bishop, or knight of the same color. You may choose a piece even if you still have your original one, so having two queens is possible.
+
+You cannot promote to a king or leave the pawn unchanged. The new piece takes effect immediately.
+
+The queen is usually the strongest choice, but another piece can occasionally be better. A knight may give a useful fork, or choosing a rook might avoid a stalemate that a queen would cause.
+
+Now for en passant, which means in passing.
+
+Imagine your pawn has advanced far enough that an enemy pawn could pass beside it by making its initial two-square move. The enemy pawn does exactly that and finishes next to yours. On your very next move, your pawn may capture it as though it had advanced only one square.
+
+Your pawn moves diagonally forward onto the empty square the enemy pawn passed through. The enemy pawn is removed from the neighboring square where it finished.
+
+This opportunity lasts only for that immediate reply. If you choose another move, you cannot make that particular en passant capture later. It must also be legal with respect to your king; the capture is forbidden if it exposes your king to check.
+
+Here is our second practice question.
+
+A knight can reach an enemy bishop with its normal jump. Several friendly pawns stand around the knight, but its destination is occupied only by that enemy bishop. Assume moving the knight does not expose its own king. Do the surrounding pawns stop the capture?
+
+Think about which piece can jump.
+
+They do not. The knight's route does not need to be cleared like a rook's or bishop's route. You check its landing square and the safety of your king.
+
+There is one more special move to cover: castling.
+
+In standard chess, castling moves your king and one rook in the same turn. The king moves two squares toward that rook. The rook then moves to the square the king crossed.
+
+Both pieces must still have the relevant castling rights. Your king must never have moved, and the rook you use must never have moved. Returning them to their starting squares does not restore those rights.
+
+All squares between the king and rook must be empty. Your king cannot currently be in check, pass through an attacked square, or finish on an attacked square.
+
+The rook itself may be attacked. The key attack restrictions concern the king's starting, crossing, and destination squares.
+
+Castling can help move the king away from the center and bring a rook toward useful central lines. Whether it is strategically safe still depends on the position. A legal castle can place your king where the opponent is ready to attack.
+
+Knowing each movement rule is only the first part of checking a move. Every proposed move must also preserve your own king's safety.
+
+Imagine your bishop stands between an enemy rook and your king. The bishop has a perfectly clear diagonal to an enemy pawn. Nevertheless, moving it may be illegal because it would uncover the rook's attack on your king.
+
+The bishop's individual movement is correct, but the resulting position violates the king-safety rule.
+
+This gives you a two-part test. First, can the piece move that way and reach that destination? Second, after the move, is your king free from attack?
+
+Use the same test for captures. Taking an enemy piece does not grant an exception.
+
+Our final practice question brings these ideas together.
+
+Your king can reach an enemy pawn in one step. The pawn is protected by an enemy knight. Can your king take the pawn because kings are allowed to capture neighboring pieces?
+
+Consider the position after the pawn disappears.
+
+No. The king would finish on a square attacked by the knight. The pawn's value and its distance from the king do not change the restriction.
+
+For a useful listening exercise, imagine each piece looking outward from its square. The rook looks along straight corridors. The bishop looks along diagonals of one color. The queen uses both sets of lines. The knight looks toward its jumping destinations. The king inspects neighboring squares while avoiding attacks. The pawn looks straight ahead for movement and diagonally forward for captures.
+
+This exercise helps separate possible movement from actual influence. A blocked rook has a powerful movement rule but a restricted position. A knight surrounded by pieces may still have a strong jump. A pawn that cannot advance may continue protecting an important square.
+
+When you next play, choose one piece before each move and identify its current job. You might notice that a bishop guards your king, a knight attacks an undefended pawn, or a rook is waiting for a file to open.
+
+The movement rules then become more than facts to memorize. They explain why pieces belong on certain squares, why obstacles matter, and why some captures are possible while others fail. Once those relationships become familiar, the board starts to look less like separate pieces and more like a connected position.

@@ -1,0 +1,171 @@
+What You Are Trying to Achieve in a Chess Game
+
+Imagine that you have captured several of your opponent's pieces. Your queen is still on the board, your rooks look impressive, and the material count says you are doing well. Then your opponent gives a check that your king cannot escape. The game is over, and you have lost.
+
+That experience teaches the first important lesson in chess. Capturing pieces helps you achieve the goal, but capturing pieces is not the goal itself. The central aim is to checkmate the opposing king while keeping your own king safe.
+
+Today we will connect that ultimate goal to the decisions you make throughout a game. We will talk about material, safety, activity, time, and the smaller objectives that make a winning position possible. You do not need a board. Listen for the relationships between the pieces and the reasons behind the decisions.
+
+First, let's make the word checkmate clear.
+
+A king is in check when an opposing piece attacks the square it occupies. The player whose king is checked must make a legal move that ends that attack on the king. Depending on the position, that can mean moving the king, capturing the checking piece, or placing a piece between a distant attacker and the king.
+
+Checkmate occurs when the king is in check and there is no legal way to get out of it. The king is never actually captured. The game ends when the checkmate position is reached.
+
+Notice that two things are required: an attack on the king, and the absence of a legal escape. A king that looks trapped is not necessarily checkmated. An escape might involve capturing the attacker with a piece you overlooked. A king that cannot move is not necessarily checkmated either, because another piece might answer the check.
+
+This means that a mating attack is usually a team effort. One piece checks the king. Another protects the checking piece. Other pieces or pawns control the escape squares. Sometimes the opponent's own pieces block those exits.
+
+You can think of an attack in terms of jobs. Who delivers the check? Who prevents the king from capturing the attacker? Who covers the exits? The more clearly you assign those jobs, the easier it becomes to recognize a real mating threat.
+
+However, most moves in a game do not directly threaten checkmate. That does not make them unimportant. They prepare the conditions that make stronger actions possible later.
+
+Consider developing a knight from its starting area toward the center. That move may not win anything immediately. Yet it brings another piece into the game, protects central squares, and may help you castle. It improves your ability to act.
+
+Chess contains a final objective and many supporting objectives. Your task is to choose a useful supporting objective that fits the position in front of you.
+
+One supporting objective is gaining material.
+
+Material means the pieces and pawns that each side has. If you can capture an enemy bishop without losing anything significant in return, you usually become better equipped to attack, defend, and control squares. An extra piece can guard a pawn while another piece takes an active role.
+
+But material must be evaluated alongside the position. A queen that is trapped cannot use her usual power. An extra rook may not help if your king faces an unavoidable checkmate. A pawn close to promotion can demand more attention than a piece on the opposite side of the board.
+
+Use material as a useful measure of resources. Then ask whether those resources can do useful work.
+
+Another supporting objective is activity.
+
+An active piece influences relevant parts of the board. A rook on an open line may attack pawns, restrict the enemy king, and support an invasion. A rook stuck behind unmoved pieces may have almost no immediate influence.
+
+Activity is not simply the number of squares a piece could move to. A bishop might have a long diagonal that points away from every important target. Another bishop might have fewer available moves but protect the key entrance to your king.
+
+Ask what a piece actually accomplishes. Does it attack something valuable? Support a useful advance? Prevent an enemy plan? Help another piece become stronger?
+
+This is a more practical way to judge development than simply admiring pieces that have moved far from home.
+
+A third supporting objective is king safety.
+
+Early in the game, there are many enemy pieces that could join an attack. Your king usually benefits from a protected location and reliable pawn cover. Later, after dangerous attacking pieces have been exchanged, the king can often become an active participant.
+
+That change is important. A king is both the piece you must protect and a piece that controls nearby squares. Keeping it hidden forever can make a pawn ending much harder to win. Bringing it forward too early can invite disaster.
+
+The right role depends on the threats that remain.
+
+A fourth supporting objective is improving your pawn structure.
+
+Pawns control squares, support pieces, and determine which lines are open. Because they cannot move backward, their moves often leave lasting effects. A well-timed pawn advance can give your bishop a useful diagonal. An unnecessary advance can expose your king or create a target.
+
+When you move a pawn, think beyond the immediate gain in space. Ask which squares it stops protecting and which pieces benefit from the new arrangement.
+
+A fifth supporting objective is gaining time for useful actions.
+
+In chess, players normally alternate moves. If you attack your opponent's queen while developing a piece, your opponent may need to move the queen while you improve your army. You have made progress while forcing a response.
+
+But an attack gains useful time only if your move itself helps you. Chasing a queen with several weakening pawn moves can damage your position while the queen finds good squares.
+
+The value lies in what you accomplish during the response, not merely in making the opponent move something.
+
+Now let's combine these ideas in a simple imagined situation.
+
+Your opponent has moved their queen out early. You can develop a knight to a safe square that attacks the queen and protects the center. Assume there is no hidden tactical problem. This move serves several purposes at once: it develops a piece, strengthens central control, and asks the opponent to respond.
+
+A different move might push an unrelated edge pawn. That pawn move could be legal and harmless, but it may contribute less to your current needs.
+
+Good chess often comes from choosing moves that make several useful contributions together.
+
+Let's try the first practice question.
+
+You can capture an undefended pawn. Your opponent is also threatening checkmate on the next move. Taking the pawn does not prevent the mate and does not create a forcing sequence that saves you. Which objective should guide your decision?
+
+Think about what would end the game.
+
+You must deal with the mating threat. The extra pawn cannot help after checkmate. This example establishes a hierarchy: immediate threats to the king can override long-term plans and material opportunities.
+
+That does not mean you should become timid whenever your opponent points a piece toward your king. Distinguish a real threat from an intimidating appearance. Ask what move they intend to make and whether that move actually works.
+
+Now let's discuss the difference between a plan and a wish.
+
+A wish sounds like this: I want to attack the king. A plan identifies a target, the pieces that can reach it, and the changes needed to make the attack effective.
+
+Perhaps an enemy pawn near the king is defended only once. Your bishop already attacks it, and your queen can safely join the pressure. You investigate whether the defender can be removed, whether the opponent can exchange your bishop, and whether your own king will remain safe.
+
+That is a plan built from the position.
+
+A plan also needs flexibility. If your opponent exchanges the target pawn or moves the king to safety, continuing the same attacking motions may accomplish nothing. You should reassess what has changed.
+
+The position is a conversation. Your opponent's move is new information, and your next decision should respond to it.
+
+This is why your first question on every turn should concern the opponent's last move. What did it threaten? What did it stop defending? What line did it open? What new weakness or opportunity did it create?
+
+Only after that inspection should you return to your own intentions.
+
+Another important distinction is between an advantage and a win.
+
+An advantage means that your position gives you better chances with good play. It might be an extra pawn, a safer king, a more active rook, or a weakness you can attack. A win is the completed result.
+
+Players often lose favorable positions because they mentally finish the game before the board has finished it. They relax their attention, force matters unnecessarily, or assume the opponent has no useful threats.
+
+When you gain an advantage, ask how to make it easier to use. You might exchange an active enemy piece, secure your king, or prevent the opponent's only pawn break. A quiet move can be the strongest way to preserve what you have earned.
+
+At the same time, do not become so protective of an advantage that you refuse every useful action. If you are a piece ahead, your extra piece should eventually help win pawns, support promotion, or create a mating attack.
+
+An advantage needs a practical route toward the final goal.
+
+Here is another practice question.
+
+You have an extra rook, but your opponent's queen is creating dangerous checks against your exposed king. You can safely exchange queens and reach a position in which your extra rook remains useful. Is the queen exchange a retreat from your goal?
+
+Take a moment to consider what the opponent would lose.
+
+The exchange may be an excellent step toward winning. It removes a major source of counterplay and lets your extra material do its work with less danger. You are not required to deliver an immediate attack just because you are ahead.
+
+The important word is safely. Before exchanging, check the resulting position. Do not assume every simplified position is favorable simply because fewer pieces remain.
+
+We should also discuss draws, because understanding the goal includes understanding when a win is no longer available.
+
+One kind of draw is stalemate. This happens when the player to move is not in check but has no legal move with any piece or pawn. A trapped king by itself is not enough if another legal move remains.
+
+If you are far ahead, accidentally causing stalemate can turn a win into a draw. Before a final queen move against a nearly bare king, check whether the opponent is in check and whether any legal response remains.
+
+If you are losing, the possibility of stalemate can become a resource. You may be able to reduce your legal moves or tempt the opponent into removing your last movable piece.
+
+There are also drawn positions in which neither side can ever deliver checkmate through any legal sequence. Two lone kings are a simple example. Other draws can arise through repetition, move-count rules, or agreement.
+
+For now, the practical point is that your objective can change. When winning is unrealistic, finding a sound drawing method is successful defense. Chess rewards making the best of the position you actually have.
+
+Let's consider how these ideas apply across the stages of a game.
+
+In the opening, your main supporting goals usually include development, central influence, and king safety. Winning a pawn can be useful, but spending many moves to collect it may leave your army unprepared.
+
+In the middlegame, you compare threats, improve pieces, choose pawn breaks, and look for tactical opportunities. Plans become more specific because the pawn structure and piece placement give the position its character.
+
+In the endgame, king activity and passed pawns often grow in importance. A passed pawn is one that has no enemy pawn ahead of it on its own or neighboring files. With support, it may advance toward promotion and force the opponent to divert pieces.
+
+These stages overlap. You should respond to what is on the board instead of waiting for a formal announcement that the endgame has begun.
+
+A useful thinking routine can tie everything together.
+
+First, check whether your king is threatened and identify your opponent's immediate intentions. Second, look for forcing opportunities such as useful checks and captures. Third, compare the health of your pieces and pawns. Fourth, choose a move that addresses the most important need without allowing a stronger reply.
+
+Then perform one final inspection before playing. Imagine your chosen move already made. What can your opponent do next?
+
+You do not need a long speech in your head for every move. With practice, these questions become a short sequence of observations.
+
+Here is our final practice question.
+
+Your pieces are developed, your king is safe, and there is no immediate tactical opportunity. One rook has no useful job, while an open file could give it access to an enemy weakness. Should you invent a sacrifice because nothing dramatic is happening?
+
+Think about the next useful improvement.
+
+No. Bringing the rook into play may be exactly the right step. Strong positions are often built through sensible improvements before any combination becomes possible. A move can support the ultimate goal without threatening mate immediately.
+
+After your next game, try a simple review exercise. Choose three moves you made and describe the purpose of each in one sentence. Perhaps you protected your king, improved a knight, challenged the center, or stopped a threat.
+
+If you cannot identify a purpose, inspect what you overlooked. Maybe the move was unnecessary. Maybe it had a benefit you did not understand at the time. The exercise is about learning to connect actions with outcomes.
+
+Also choose one moment when you became distracted by material. Ask whether the capture improved your position after the strongest reply. This will help you avoid judging moves only by what disappears from the board.
+
+Chess becomes easier to understand when you keep the final goal and the supporting goals connected. Material gives you resources. Activity lets you use them. Pawn structure shapes their routes. King safety keeps the game alive. Good calculation checks whether your intended action really works.
+
+You are trying to build a position in which your pieces can accomplish something your opponent cannot adequately prevent. Sometimes that leads directly to checkmate. Sometimes it leads to winning material and then promoting a pawn. Sometimes the best available achievement is a well-defended draw.
+
+On your next turn, ask what the position needs now and how that need connects to the result you are trying to achieve. That question gives every move a direction.

@@ -1,0 +1,193 @@
+Getting Out of Check and Using Check Wisely
+
+The word check changes what you are allowed to do. Your king is under attack, so your next move must solve that problem. You cannot ignore the attack because you would rather capture a queen or continue your plan.
+
+At the same time, giving check does not automatically mean you have made a strong move. A check may win a piece, drive the enemy king into danger, or finish the game. It may also help the king move to a safer square while your own piece loses time.
+
+In this lesson, we will study check from both sides. First we will learn how to respond correctly. Then we will look at how to decide whether a check is actually useful. You can follow the examples without a board by keeping track of the attacker, the king, and any piece between them.
+
+A king is in check when an opposing piece attacks the square it occupies. Checkmate means the king is in check and the player has no legal move that removes the check.
+
+The king is never captured. You must keep your king free from attack after every legal move, and the game ends when checkmate is reached.
+
+When you are checked, there are three broad kinds of response to investigate: move the king, capture the checking piece, or block the checking line. Not every option is available in every position.
+
+Let's begin with moving the king.
+
+The king may move to a neighboring square if that square is not occupied by a friendly piece and is not attacked by the opponent. It can sometimes capture an enemy piece while moving, but the destination must remain safe after the capture.
+
+Do not judge the destination only from the current arrangement. Removing a captured piece can reveal a rook, bishop, or queen behind it. A square that looked protected by an obstruction may become attacked once that obstruction disappears.
+
+For example, an enemy rook checks your king from nearby. Behind the rook, farther along the same line, stands another enemy rook. Capturing the checking rook may expose the second rook's attack, so your king cannot simply take the first one.
+
+The safe-square test applies to the final position.
+
+Also remember that kings cannot stand next to each other. The enemy king controls neighboring squares, even though it cannot move into check itself.
+
+Now consider capturing the checking piece.
+
+You may be able to capture it with your king or with another piece. A bishop might take a checking rook along a diagonal. A knight might capture a checking queen. A pawn might remove a nearby attacker.
+
+The capture is legal only if it leaves your king out of check.
+
+Imagine a knight can capture the checking bishop, but moving the knight would uncover an enemy rook's line to your king. The knight's capture removes one attack and reveals another. It is therefore not a legal answer.
+
+This is why you need to inspect the entire final position, not just make the checking piece disappear.
+
+A capture that ends the check can also be tactically poor without being illegal. You might save the king but lose a valuable piece in the following exchange. If several legal responses exist, compare their consequences.
+
+Next comes blocking the check.
+
+Blocking is possible when a rook, bishop, or queen gives check along a line with at least one empty square between the attacker and the king. You may place a friendly piece on an intervening square so that the line no longer reaches the king.
+
+The blocking piece might be a bishop, knight, rook, queen, or pawn, depending on which legal move can reach the square.
+
+A block can be strong if it develops a piece, protects another target, or prepares to exchange the attacker. It can be weak if the opponent can capture the blocker with another check and improve the attack.
+
+Do not assume that blocking merely postpones the problem. Sometimes interposing the right piece completely neutralizes it.
+
+There are checks you cannot block.
+
+A knight attacks by jumping, so placing a piece between the knight and king does nothing. A pawn attacks a neighboring diagonal square, leaving no intervening square. A rook, bishop, or queen checking from directly beside the king along its line also leaves no square available for a block.
+
+In those cases, investigate moving the king or capturing the checking piece.
+
+One special situation is double check.
+
+Double check means two enemy pieces attack the king at the same time, usually after one piece moves away and uncovers the other. The response must be a king move, which may include the king capturing one of the attackers if the destination is safe.
+
+Trying to block one line or capture one attacker with another piece would leave the other check unanswered.
+
+This makes double check especially forcing, but it is still not automatically mate. The king may have a safe escape.
+
+Let's try a practice question.
+
+An enemy knight checks your king. You can move a bishop onto a square that appears to lie between the knight and king. Would that block the check?
+
+Picture the knight's movement.
+
+No. Knight attacks do not depend on a clear path. Your reply must remove the attack by a legal king move or by capturing the knight, assuming one of those options is available.
+
+When searching for a response to check, avoid jumping to the first king move you see.
+
+Many players develop the habit of moving the king whenever it is attacked. That can surrender castling rights, expose the king, or miss an opportunity to capture the checking piece.
+
+Instead, examine the available response types. Can the attacker be taken? Can a useful piece block? Is a king move safest?
+
+You do not need to follow a rigid order if an obvious forced response exists, but remembering the categories helps you avoid overlooking options.
+
+Here is a simple imagined example.
+
+An enemy bishop gives a distant diagonal check early in the game. You can develop a knight onto the diagonal, blocking the check while protecting a central pawn. The knight is safe, and the opponent has no favorable capture.
+
+In that position, the check may have helped you make a useful developing move. Moving your king unnecessarily could be much worse.
+
+Now imagine a different position in which the same kind of knight block leaves the knight pinned and allows the opponent to win it. The category of move is the same, but the tactical result changes.
+
+Always examine the actual consequences.
+
+There is an important castling restriction to remember. You cannot castle out of check. You also cannot castle through an attacked square or into check.
+
+If your king has been checked earlier in the game but has never moved, you have not automatically lost castling rights. Those rights depend on the king and relevant rook not having moved, along with the other conditions for castling.
+
+The fact that a check happened in the past is different from being in check now.
+
+Let's turn to giving check.
+
+A check is useful because it narrows the opponent's legal replies. They must answer the king attack. This can help you calculate a sequence more reliably than a move that allows many unrelated responses.
+
+But the opponent still chooses the strongest legal answer. You should not assume the king will move in the direction you prefer.
+
+Before checking, ask what you gain after each important response.
+
+Perhaps the king must leave a square where it protected a rook. Perhaps the opponent must block with a piece that becomes pinned. Perhaps the check drives the king closer to a mating net.
+
+These are concrete benefits.
+
+A check without a useful follow-up may accomplish very little. It can even strengthen the opponent's position by moving the king away from your attack or allowing a developing block.
+
+Imagine your queen gives a check that the opponent answers by bringing out a bishop with protection. Your queen then has to retreat, while the bishop remains active. Unless the check achieved another benefit, you may have spent time improving the opponent's development.
+
+This is the difference between a forcing move and a good forcing move.
+
+Another common mistake is chasing the enemy king without restricting its escape.
+
+You give one check, the king moves. You give another, the king moves again. After several checks, the king has reached safety and your pieces are poorly coordinated.
+
+A mating attack usually requires control as well as pursuit. You may need a quiet move that covers an escape square before the next check becomes decisive.
+
+Ask where the king can go after your check. If the answer is somewhere better, reconsider the move.
+
+Our second practice question is about that choice.
+
+You can give a harmless queen check that forces the enemy king toward a protected area. Alternatively, you can bring a rook into the attack and prevent that escape route. There is no urgent threat against you. Should the fact that the first move gives check make it automatically better?
+
+Think about the resulting king position.
+
+No. A quiet improving move may create a much stronger attack. Check is a property of a move, not a complete evaluation of it.
+
+Checks can also be used to win material.
+
+A knight may fork the king and queen. Because the king is checked, the opponent must address that attack, and the knight may capture the queen next. The fork works only if the opponent cannot eliminate the knight or otherwise avoid the material loss while answering the check.
+
+A rook check might drive the king away from a pawn it was protecting. A bishop check might force a block that leaves another piece undefended.
+
+In each case, identify the second purpose. The check is the means of forcing a response; the material target supplies the benefit.
+
+There are also intermediate checks.
+
+Suppose your piece has just been captured, and you intend to recapture. Before doing so, you may have a useful check that changes the position in your favor. The opponent must answer it, after which you can return to the recapture under better circumstances.
+
+However, the recapture must still be available. A king move might defend the capturing piece, or the opponent might block the check in a way that creates a new threat.
+
+Do not insert a check merely because it is available. Verify that the whole sequence improves.
+
+From the defending side, always look for these intermediate checks when calculating a capture. Your opponent is not required to recapture immediately. A checking move elsewhere may interrupt the sequence you expected.
+
+Checks can also be a drawing resource.
+
+A side that is behind may be able to give repeated checks that prevent the opponent from escaping into a winning position. This is commonly described as perpetual check.
+
+Perpetual check is a strategic description, not a separate automatic rule that declares a draw after a fixed number of checks. A draw may result through repeated positions, agreement, or another applicable rule.
+
+If you are attacking with a large material advantage, make sure your king is not exposed to an endless checking cycle. A quiet sheltering move may be more valuable than collecting another pawn.
+
+If you are defending, investigate whether the opponent has a safe escape before assuming the checking pattern guarantees a draw.
+
+Now let's discuss how to calculate a check efficiently.
+
+First, identify the checker and the exact line or pattern of attack. This tells you whether blocking is possible.
+
+Second, list the meaningful legal responses. Consider captures of the checking piece, blocks, and king moves. If there is double check, focus on king moves.
+
+Third, examine the strongest defensive option first. If your idea fails against a simple capture, there may be no need to calculate several elaborate king retreats.
+
+Fourth, evaluate the position after the response. Did you gain material, improve your pieces, weaken the king, or force a useful draw? Or did the opponent simply become more comfortable?
+
+This method keeps calculation connected to a purpose.
+
+When you are the player in check, use the same structure from the other side. Identify how the attack reaches your king, then look for the legal response that best serves your position.
+
+It is natural to feel alarmed by a check, especially in a fast game. A brief classification can reduce that feeling. A distant bishop check has one set of answers. A knight check has another. Double check is more restricted.
+
+Understanding the type of problem makes the search more manageable.
+
+Here is our final practice question.
+
+An enemy rook checks your king from a distance. You can legally capture the rook with your bishop, and after the capture no enemy piece attacks your king. Must you move your king simply because it was checked?
+
+Consider what the rule requires.
+
+No. The rule requires you to end the check, not necessarily to move the king. Capturing the attacker is a valid response when the resulting position is legal.
+
+An answer to check can sometimes give check in return. A rook might interpose on the attacking line while also attacking the enemy king along another line. This can be a valuable defensive resource because it changes who must respond. But your own check never excuses leaving your king attacked. First verify that the original check has been completely removed, and only then evaluate the countercheck and its follow-up.
+
+For a useful review exercise, choose three checks from a game you played. For each one, identify the purpose of the check and the strongest reply.
+
+If you gave the check, ask whether it improved your position. If you received it, ask whether you considered all the response types. You may find a developing block you missed or a checking move that only helped the enemy king.
+
+You can also practice describing the answer aloud: capture the checker, block the diagonal, or move the king to safety. That language trains you to see the mechanism rather than react automatically.
+
+The central lesson is to respect check without being dazzled by it. When checked, solve the immediate legal problem and compare the available responses. When giving check, make sure the forced response helps your larger purpose.
+
+A well-timed check can control the course of a combination. A needless check can give away time. The difference comes from looking one step beyond the word and asking what the position becomes afterward.

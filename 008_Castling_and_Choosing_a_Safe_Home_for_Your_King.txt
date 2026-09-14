@@ -1,0 +1,191 @@
+Castling and Choosing a Safe Home for Your King
+
+Castling is one of the most useful moves in chess because it can improve two pieces at once. The king leaves its original central square, and a rook moves closer to the middle of the board. In many games, this helps your king find shelter while your rook prepares for action.
+
+But castling has precise rules, and a legal castle is not automatically a safe castle. You still need to examine the position your king will occupy.
+
+In this lesson, we will learn the rules in plain language and then connect them to practical decisions. We will use descriptions such as toward the rook and behind the pawn shelter, without naming board coordinates.
+
+Imagine your king and a rook on their original starting squares. The pieces between them have moved away. To castle in standard chess, the king moves two squares toward the rook. The rook then moves to the square the king crossed.
+
+The whole action counts as one move. You do not move the rook first on one turn and the king later on another.
+
+You can castle toward either original rook if the required conditions are met. Castling toward the king's original side is commonly called kingside or short castling. Castling toward the queen's original side is called queenside or long castling.
+
+Those names refer to the starting arrangement. They do not change if the king or queen later travels elsewhere.
+
+Let's go through the conditions carefully.
+
+First, your king must never have moved. If the king has moved earlier in the game, you have permanently lost the right to castle with either rook.
+
+Returning the king to its original square does not restore that right.
+
+Second, the rook you intend to use must never have moved. If one rook has moved, you lose the right to castle with that rook, but you may still be able to castle with the other original rook if your king has not moved and all other conditions are satisfied.
+
+A rook that leaves its corner and returns has still moved. A newly promoted rook cannot replace the original rook's lost castling rights.
+
+Third, every square between the king and the chosen rook must be empty. It does not matter whether an obstruction belongs to you or your opponent. Any piece between them prevents castling.
+
+This is why development often prepares castling. A knight and bishop may need to leave their starting squares, and castling toward the queen's side also requires the queen to have cleared the route.
+
+Fourth, your king cannot currently be in check.
+
+You may not use castling as a way to escape an existing check. You need another legal response, such as capturing the attacker, blocking the attack, or moving the king.
+
+If you move the king to answer that check, you lose castling rights. If you answer without moving the king or the relevant rook, you may preserve them.
+
+Fifth, the king cannot pass through an attacked square or finish on an attacked square.
+
+Picture the king's two-square journey. Its starting square, the square it crosses, and its destination must all be free from enemy attack in the relevant castling test.
+
+These restrictions concern the king's route. The rook itself may be attacked without making castling illegal. On the queen's side, an additional square that the rook crosses but the king does not cross must be empty, but an attack on that extra square alone does not prevent castling.
+
+That difference causes many misunderstandings. The rook's journey and the king's safety conditions are not identical.
+
+There is a subtle detail about attacked squares. An enemy piece can still make a square unsafe for your king even when that enemy piece is pinned to its own king. You cannot justify castling through its attack by saying that it would be unable to make an ordinary legal capture. King safety uses the attacked-square rule. When checking the king's route, include those enemy attacks rather than treating a pin as permission to cross. This is the same caution you should apply when considering an ordinary king move onto a square controlled by a pinned piece.
+
+Let's turn the rules into a short memory aid.
+
+The king has never moved. The chosen rook has never moved. The space between them is clear. The king is not in check and does not cross or enter an attacked square.
+
+If any required condition fails, castling is unavailable on that side.
+
+Here is our first practice question.
+
+Your king moved earlier to avoid a threat, then returned to its original square. Both rooks are still in their original corners, and all the spaces are now clear and safe. Can you castle?
+
+Think about whether the right depends only on the present arrangement.
+
+No. The king's earlier move permanently removed castling rights. Restoring the original appearance does not restore the move history.
+
+Now that the legal rules are clear, let's discuss the strategic purpose.
+
+At the start of the game, the king stands in the center behind central pawns. Those pawns often advance or are exchanged because both players want central influence and open lines for their pieces.
+
+As the center opens, rooks, bishops, and queens can gain routes toward the king. Castling can move the king away from those routes and place it behind a group of pawns.
+
+Meanwhile, the rook moves inward. Once the remaining pieces are developed, your rooks may connect across the back row and become ready to use open files.
+
+This is why castling often fits naturally into an opening plan. Develop pieces, influence the center, and give the king a secure home.
+
+However, the phrase secure home must be tested.
+
+Imagine the pawns on one wing have already advanced far from their starting squares. An enemy queen and bishop are aimed at the area behind them. Castling there may put the king directly into the attack.
+
+The move can satisfy every legal condition while creating a dangerous position on the next turn.
+
+Before castling, examine the destination's pawn shelter, the enemy's nearby pieces, and the lines that could open.
+
+Ask which pawn breaks the opponent can use against the shelter. A pawn break is a pawn move that challenges the structure and may lead to exchanges. If the enemy can force open a file beside your king, the shelter may be less reliable than it looks.
+
+Also ask whether your own pieces can help defend. A king behind intact pawns can still be vulnerable if every defender has wandered to the opposite side of the board.
+
+Now compare the two castling directions.
+
+Short castling often requires fewer pieces to move out of the way, so it can be available sooner. The king commonly finishes behind a compact group of pawns, and the rook moves toward central files.
+
+Long castling can bring a rook directly onto a central file that may become active. But preparing it usually involves moving the queen, and the king's new location may need extra attention because of the pawn arrangement and nearby open lines.
+
+These are common tendencies, not guarantees. The actual position determines which side is safer and which rook placement is more useful.
+
+Do not choose long castling only because it looks more aggressive. Do not choose short castling only because it is the familiar habit.
+
+Compare the threats both sides could create afterward.
+
+One useful question is where the opposing king is likely to go.
+
+If the kings castle on opposite sides, each player may be able to advance pawns toward the enemy king without directly exposing their own king's shelter. This can lead to sharp pawn storms and races to open lines.
+
+But the center remains important. If your opponent can open the center against your king or attack your queen while your pawns march, a wing attack may be too slow.
+
+Opposite-side castling creates possible plans, not an obligation to push every pawn.
+
+If both kings castle on the same side, advancing the pawns in front of your king may weaken your own shelter while attacking theirs. Such advances can still work, especially with a closed center and good preparation, but they require careful judgment.
+
+Castling direction shapes later pawn decisions.
+
+Our second practice question concerns attacked squares.
+
+Your rook is attacked in its original corner. Your king and that rook have never moved, the route is empty, and the king's starting, crossing, and destination squares satisfy the safety conditions. Does the attack on the rook alone forbid castling?
+
+Focus on which piece must avoid attack during the move.
+
+No. The rook may be attacked. The specific attack restrictions concern the king and its route. Of course, you should still examine whether the resulting position is strategically sound.
+
+Now let's discuss timing.
+
+Castling early is often sensible because it removes a source of worry before the center becomes dangerous. It also helps your rook join the game. Many beginner losses begin with a king that stayed in the center while the player chased pawns.
+
+If your opponent is ahead in development and can open central lines, delaying castling may be especially risky.
+
+But there are positions where waiting is reasonable. The center may be firmly closed, the opponent may have committed to an attack on one wing, or keeping both castling options available may influence their choices.
+
+The danger is confusing a deliberate delay with neglect.
+
+A deliberate delay includes an explanation of why the king is safe for now, what central breaks the opponent has, and when you expect to make the decision. Neglect means making unrelated moves and hoping the king's situation never becomes urgent.
+
+When you postpone castling, keep checking the center after every move.
+
+There are also tactical reasons to delay or reject a particular castle.
+
+Perhaps moving the king would leave a piece undefended. Perhaps the rook's new square lines up with an enemy bishop. Perhaps the opponent can use a fork against the king and rook after the move.
+
+Castling changes two piece locations, so inspect both. Your rook may stop defending an edge pawn or begin defending a central piece. Your king may leave protection of a nearby pawn and acquire new responsibilities.
+
+Do not treat castling as a move that requires no blunder check.
+
+A practical inspection can be short. Imagine both pieces in their new places. Look for enemy checks, captures, and direct threats. Then examine the pawn shelter.
+
+If the result is safe and useful, castling may solve several problems at once.
+
+Let's address another common misconception: once a king has been checked, it can never castle.
+
+Being checked does not by itself remove castling rights. Moving the king removes them. If you answered an earlier check by blocking with a bishop, and your king and chosen rook have never moved, you may still castle later when all conditions are satisfied.
+
+The distinction between a temporary obstacle and a permanent loss matters.
+
+A piece blocking the route is a temporary obstacle. An attacked crossing square may be a temporary obstacle. The king having moved is permanent.
+
+This helps you plan preparation. You can move the blocking piece or challenge the attacker. You cannot undo the king's history.
+
+Sometimes your opponent gives a check specifically to make you move the king and lose castling rights. If a safe block or capture is available, it may preserve a useful option.
+
+However, preserving castling rights is not worth losing substantial material or allowing a dangerous attack. Choose the best response to the actual check. Rights have value only if they help your position.
+
+Our final practice question brings legality and strategy together.
+
+You can legally castle behind pawns that have advanced and left several openings. The enemy queen and rook are already aiming toward that side. Your other wing is quieter, and you have time to prepare it. Must you castle immediately because developing players are told to castle early?
+
+Think about the destination, not just the slogan.
+
+No. You should compare the safety of the resulting positions. Early castling is a useful guideline, but walking into a prepared attack defeats its purpose. You may choose the other side or make a necessary defensive move first.
+
+What if you have lost castling rights?
+
+The game is not automatically lost. You need a practical plan for king safety and rook activity.
+
+You may be able to exchange queens, keep central lines closed, or move the king manually toward shelter over several turns. You may also bring the rooks into play through open files rather than relying on castling.
+
+The cost is often time and coordination. Your opponent may try to open the position before you reorganize.
+
+Respond by identifying the immediate threats and the safest route. Avoid spending moves trying to imitate castling mechanically if another arrangement works better.
+
+Later in the game, castling may no longer be necessary. When dangerous attacking pieces have been exchanged, the king may belong closer to the center to help with pawns. A rook may already be active on a useful file.
+
+The value of castling comes from what it accomplishes, not from a requirement to use it in every game.
+
+For over-the-board play, it is also useful to learn the physical action correctly. Under standard touch-move rules, handle the king first when castling. Thinking through the move before touching pieces helps avoid an unintended commitment.
+
+When playing through an interface, use the interface's supported castling action, and make sure you understand the resulting position. The underlying legal conditions remain the same.
+
+To practice after this lesson, review the moment you castled in a recent game. Ask why that side was chosen, whether the center was about to open, and which enemy pieces could approach your king.
+
+Then inspect one move before castling. Did you prepare it efficiently, or did you spend unnecessary time moving pawns while the king waited?
+
+Finally, inspect one move after castling. Did you continue developing and bring the rook into play, or did you assume the king's safety problem was solved forever?
+
+Castling is a useful transition, not a permanent shield. Your opponent can still open lines and create threats around the king.
+
+Remember the two questions that organize the whole decision. Is castling legal here? And does the resulting position give my king a safer home while helping my pieces?
+
+Answer both, and castling becomes a purposeful part of your plan rather than an automatic move you make because the opening has reached a familiar moment.
